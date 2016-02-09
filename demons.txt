@@ -1,0 +1,2776 @@
+                       |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+=======================|                                |=======================
+                       |       Demon Compendium         |
+=======================|                                |=======================
+                       |________________________________|            
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+  The Demon Compendium is a list of every Demon in the game. The ones you have
+Registered show up in the &quot;View&quot; category and if you wish to register a
+different version of that Demon choose the &quot;Register&quot; option to do so. This
+function is good for replicating Elements and Mitamas to hold vital abilities.
+It can also be used to &quot;save&quot; your Demon in it's current form if it's unique
+and required for a fusion.
+
+The Demon Races
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  Demons marked with an asterisk (*) are Unique, meaning that you can only
+carry one of this Demon at a time. All others Demons can have multiple copies
+in your arsenal. The table below lists Demons by race and details the Race
+Skills they could have. The top skill is for the lower levels, the bottom skill
+is for higher levels generally. If a Demon is leveled high enough it can learn
+the better skill.
+
+|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Race   | Demons            | Lv | Race Skills                                |
+|========|===================|====|============================================|
+| Omega  |*Shiva             | 76 | Asura Karma                                |
+|        |*Beiji-Weng        | 70 | - Grants potential third attack (second    |
+|        |*Susano-o          | 60 |   Extra Turn) in one turn.                 |
+|        |*Kartikeya         | 56 | Asura Destiny                              |
+|        |*Wu Kong           | 52 | - Grants potential third attack (second    |
+|        |*Chernobog         | 43 |   Extra Turn) in one turn. High chance of  |
+|        |*Tonatiuh          | 34 |   getting Extra Turn.                      |
+|--------|-------------------|----|--------------------------------------------|
+| Megami |*Amaterasu         | 77 | Affection                                  |
+|        |*Pallas Athena     | 69 | - Heal (high)/cure 1 team                  |
+|        |*Norn              | 64 |   Range: 4                                 |
+|        |*Parvati           | 59 |                                            |
+|        |*Isis              | 55 | Goddess Grace                              |
+|        | Laksmi            | 51 | - Heal (high)/cure 1 team                  |
+|        |*Scathach          | 43 |   Range: 6                                 |
+|        | Brigid            | 35 |                                            |
+|        |*Hathor            | 31 |                                            |
+|        | Kikuri-Hime       | 27 |                                            |
+|        | Sarasvati         | 19 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Deity  |*Asura             | 77 | Awakening                                  |
+|        |*Lord Nan Dou      | 70 | - Magic damage up 1.5x for one action      |
+|        |*Baal              | 65 |   Team effect                              |
+|        |*Alilat            | 61 |                                            |
+|        |*Lugh              | 57 | Enlightenment                              |
+|        |*Osiris            | 53 | - Reduce MP cost by 25%                    |
+|        |*Mithra            | 49 |   Magic damage up 1.5x for one action      |
+|        |*Inti              | 45 |   Team effect                              |
+|        |*Yama              | 41 |                                            |
+|        |*Odin              | 37 |                                            |
+|        |*Arahabaki         | 33 |                                            |
+|        |*Thor              | 29 |                                            |
+|        | Mahakala          | 22 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Vile   |*Nyarlathotep      | 80 | Chaos Wave                                 |
+|        |*Tezcatlipoca      | 68 | - Attack Range: 3; no Extra Turn.          |
+|        |*Tao Tie           | 62 |   Attack Turn Cost up; Move -1             |
+|        |*Arioch            | 56 |                                            |
+|        | Abaddon           | 48 | Chaos Breath                               |
+|        |*Pazuzu            | 40 | - Attack Range: 4; no Extra Turn.          |
+|        | Baphomet          | 32 |   Attack Turn Cost up; Move -1             |
+|        | Orcus             | 23 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Snake  |*Hoyau Kamui       | 80 | Constrict                                  |
+|        | Ananta            | 72 | - Reduce adjacent enemy team Move to 1.    |
+|        | Orochi            | 66 |   Defend priority                          |
+|        | Gucumatz          | 58 |                                            |
+|        | Seiryuu           | 51 | Dragon Bind                                |
+|        | Quetzalcoatl      | 44 | - Reduce adjacent enemy team Move to 1.    |
+|        | Gui Xian          | 38 |   Defend priority                          |
+|        | Pendragon         | 30 |   Remove foe's Extra Turns                 |
+|        | Nozuchi           | 23 |                                            |
+|        | Makara            | 14 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Dragon |*Vasuki            | 73 | Evil Wave                                  |
+|        | Vritra            | 65 | - Attack Range: 2; No Extra Turn           |
+|        | Culebre           | 58 |   Attack Turn Cost up                      |
+|        | Python            | 51 |                                            |
+|        | Ym                | 44 | Evil Flow                                  |
+|        | Asp               | 36 | - Attack Range: 2; No Extra Turn           |
+|        | Basilisk          | 28 |   Attack Turn Cost up                      |
+|        | Bai Suzhen        | 20 |   Use: Increase range by 4                 |
+|        | Toubyou           | 12 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Divine |*Metatron          | 74 | Blood Wine                                 |
+|        |*Remiel            | 59 | - Spend user's HP to restore MP            |
+|        | Kazfiel           | 50 |   Level-dependent team effect              |
+|        | Aniel             | 42 | Angel Stigma                               |
+|        | Lailah            | 32 | - Spend user's HP to restore MP            |
+|        | Power             | 24 |   Level-dependent team effect              |
+|        | Angel             | 15 |   More effective than Blood Wine           |
+|--------|-------------------|----|--------------------------------------------|
+| Avian  | Da Peng           | 77 | Flight                                     |
+|        | Garuda            | 69 | - Move through obstacles                   |
+|        | Feng Huang        | 62 |   Move +1 (Not stackable)                  |
+|        | Anzu              | 54 |                                            |
+|        | Badb Catha        | 46 | Winged Flight                              |
+|        | Vidofnir          | 39 | - Move through obstacles                   |
+|        | Suparna           | 31 |   Move +2 (Not stackable)                  |
+|        | Hamsa             | 24 |                                            |
+|        | Moh Shuvuu        | 16 |                                            |
+|        | Itsumade          |  8 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Fallen |*Satan             | 99 | Sacrifice                                  |
+|        | Nebiros           | 86 | - Restore HP/MP when user defeats a foe.   |
+|        | Agares            | 71 |   Team effect                              |
+|        | Murmur            | 64 |                                            |
+|        | Decarabia         | 56 | Fallen's Mark                              |
+|        | Orobas            | 49 | - Restore HP/MP when user defeats a foe.   |
+|        |*Bifrons           | 45 |   Team effect                              |
+|        | Nisroc            | 41 |   Use: Drain MP from opponent; Range: 3    |
+|        |*Botis             | 37 |                                            |
+|        | Barbatos          | 33 |                                            |
+|        | Flauros           | 26 |                                            |
+|        | Abraxas           | 19 |                                            |
+|        | Gagyson           | 11 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Avatar |*Anubis            | 76 | Switch                                     |
+|        | Barong            | 68 | - Switch positions with an ally team       |
+|        |*Ukano Mitama      | 64 |   Range: 6                                 |
+|        | Airavata          | 60 |                                            |
+|        | Baihu             | 53 | Warp Step                                  |
+|        |*Pabilsag          | 45 | - Switch positions with an ally team       |
+|        | Bai Ze            | 37 |   Range: 8                                 |
+|        |*Kamapua'a         | 32 |                                            |
+|        | Shiisaa           | 28 |                                            |
+|        |*Apis              | 21 |                                            |
+|        | Heqet             | 13 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Beast  | Fenrir            | 66 | Animal Leg                                 |
+|        | Cerberus          | 58 | - Replenish Move after attack              |
+|        | Myrmecolion       | 50 |   (Not stackable)                          |
+|        | Nue               | 42 |                                            |
+|        | Cait Sith         | 35 | Free Leap                                  |
+|        | Orthrus           | 27 | - Replenish Move after attack              |
+|        | Nekomata          | 19 |   Can run during Extra Turn                |
+|        | Hairy Jack        | 10 |   (Not stackable)                          |
+|        | Kabuso            |  2 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Wilder |*Ammut             | 73 | Devil Speed                                |
+|        | Behemoth          | 65 | - Increase Move to 7.                      |
+|        | Sleipnir          | 57 |   Grants initiative bonus.                 |
+|        | Taown             | 50 |                                            |
+|        | Mothman           | 43 | Devil Flash                                |
+|        |*Xiezhai           | 37 | - Increase Move to 8.                      |
+|        | Afanc             | 33 |   Grants initiative bonus.                 |
+|        | Garm              | 25 |                                            |
+|        | Waira             | 17 |                                            |
+|        | Hare of Inaba     |  9 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Genma  |*Heimdall          | 75 | Phantasm                                   |
+|        |*Jarilo            | 68 | - Move through obstacles                   |
+|        | Ganesha           | 61 |   Move Turn Cost -50%                      |
+|        |*Kangiten          | 54 |                                            |
+|        |*Kresnik           | 46 | True Phantasm                              |
+|        |*Kama              | 42 | - Move through obstacles next to ally      |
+|        |*Cu Chulainn       | 37 |   team. Range: 5                           |
+|        | Hanuman           | 33 |   Move Turn Cost -50%                      |
+|        | Tlaloc            | 28 |                                            |
+|        | Ictinike          | 21 |                                            |
+|        | Jambavan          | 13 |                                            |
+|        |*Tam Lin           |  6 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Fairy  |*Oberon            | 62 | Glamour                                    |
+|        |*Titania           | 58 | - Heal (low) 1 team, chance of side benefit|
+|        | Vivian            | 52 |   Range: 3                                 |
+|        | Silky             | 44 |                                            |
+|        | Lorelei           | 37 | Fairy Dust                                 |
+|        | Pyro Jack         | 29 | - Heal (low) all teams, chance of side     |
+|        | Jack Frost        | 21 |   benefit                                  |
+|        | Kijimunaa         | 14 |   Range: 3                                 |
+|        | Knocker           |  7 |                                            |
+|        | Pixie             |  2 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Tyrant |*Lucifer           | 99 | Tyranny                                    |
+|        |*Beelzebub         | 91 | - Restore MP after skirmish: Team          |
+|        |*Belial            | 86 |   Foe initiative down.                     |
+|        |*Nergal            | 81 |                                            |
+|        |*Astaroth          | 75 | Blood Treaty                               |
+|        |*Mot               | 68 | - Restore MP after skirmish: Team          |
+|        |*Loki              | 61 |   Foe initiative down.                     |
+|        |*Tzitzmitl         | 54 |   (Restores more than Tyranny)             |
+|        |*Hecate            | 47 |                                            |
+|        |*Balor             | 40 |                                            |
+|        |*Moloch            | 33 |                                            |
+|        |*King Frost        | 26 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Kishin |*Zaou Gongen       | 93 | Double Up                                  |
+|        |*Ometeotl          | 75 | - Enable second skirmish (Not stackable)   |
+|        |*Bishamonten       | 71 |                                            |
+|        |*Koumokuten        | 64 | Matchless                                  |
+|        |*Jikokuten         | 57 | - Enable second skirmish and use of skills |
+|        |*Zouchouten        | 50 |   (Not stackable)                          |
+|        |*Take-Mikazuchi    | 43 |                                            |
+|        |*Hitokotonusi      | 36 |                                            |
+|        | Nalagiri          | 28 |                                            |
+|        | Ubelluris         | 20 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Touki  |*Oumitsunu         | 67 | Aggravate                                  |
+|        |*Nata Taishi       | 59 | - Guarantee 1 critical hit: Team           |
+|        | Yaksa             | 51 |   (Defend N/A)                             |
+|        | Lham Dearg        | 43 |                                            |
+|        |*Berserker         | 38 | Agitate                                    |
+|        | Ikusa             | 33 | - Increase Phys attack critical rate: Team |
+|        | Mezuki            | 25 |   After use, critical rate slowly          |
+|        | Gozuki            | 18 |   decreases from 100%                      |
+|        | Bilwis            | 10 |                                            |
+|        | Kobold            |  3 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Jaki   |*Black Frost       | 80 | Bind                                       |
+|        |*Grendel           | 64 | - Reduce target's Move to 1 for 1 turn.    |
+|        | Rakshasa          | 55 |   Range: 3                                 |
+|        | Girimehkala       | 47 |                                            |
+|        | Legion            | 39 | Evil Bind                                  |
+|        | Wendigo           | 31 | - Skip target's turn once and reduce       |
+|        | Ogun              | 23 |   target's Move to 1 on next turn.         |
+|        | Mokoi             | 15 |   Range: 3                                 |
+|        | Ogre              |  8 |                                            |
+|        | Obariyon          |  3 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Femme  |*Lilith            | 83 | Devotion                                   |
+|        |*Kali              | 74 | - Heal (50% current user HP) 1 team.       |
+|        |*Anat              | 66 |   Range: 2                                 |
+|        | Rangda            | 58 |                                            |
+|        |*Dzelarhons        | 50 | Mother's Love                              |
+|        |*Hariti            | 46 | - Heal (current user HP) 1 team.           |
+|        | Ixtab             | 42 |   Increase turn speed by 1.                |
+|        |*Peri              | 38 |   Range: 2                                 |
+|        | Yuki Jyorou       | 34 |                                            |
+|        | Leanan Sidhe      | 26 |                                            |
+|        | Lilim             | 18 |                                            |
+|        | Kikimora          |  9 |                                            |
+|--------|-------------------|----|--------------------------------------------|
+| Ghost  |*Purple Mirror     | 61 | Ghost Wounds                               |
+|        |*Kudlak            | 50 | - Reduce opposing team's range to 1 and    |
+|        | Pisaca            | 41 |   movement by half. Range: 3               |
+|        | Loa               | 34 |                                            |
+|        | Kumbhanda         | 25 | Possession                                 |
+|        | Tenong Cut        | 16 | - Lower target team's range to 1 and halve |
+|        | Agathion          |  6 |   motion range. Prevent recovery from      |
+|        | Poltergeist       |  1 |   status ailments. Range: 3                |
+|--------|-------------------|----|--------------------------------------------|
+| Fiend  |*Alice             | 88 | Uncanny Form                               |
+|        |*Trumpeter         | 63 | - Immediately act again. Cannot be used    |
+|        |*Billiken          | 50 |   more than once per turn.                 |
+|        |*Sage of Time      | 41 | Unearthly Form                             |
+|        |*Ghost Q           | 26 | - Immediately act again. Cannot be used    |
+|        |                   |    |   more than once per turn.                 |
+|--------|-------------------|----|--------------------------------------------|
+| Hero   |*Masakado          | 82 | Hero's Mark                                |
+|        |*Guan Yu           | 70 | - Reduce damage taken by 30% until start   |
+|        |*Yoshitsune        | 57 |   of next turn                             |
+|        |*Jeanne d'Arc      | 50 | Hero's Proof                               |
+|        |*Hagen             | 39 | - Reduce damage taken by 50% until start   |
+|        |*Neko Shogun       | 31 |   of next turn                             |
+|--------|-------------------|----|--------------------------------------------|
+| Element| Flaemis           | 22 | Elements are typically blank slates, meant |
+|        | Aquans            | 17 | to aid the player in leveling a Demon to   |
+|        | Aeros             | 12 | a higher/lower form. As such, they have no |
+|        | Erthys            |  7 | racial skills.                             |
+|--------|-------------------|----|--------------------------------------------|
+| Mitama | Nigi Mitama       | 49 | Mitama are used like Elements except that  |
+|        | Ara Mitama        | 45 | they are blank slates made solely for stat |
+|        | Kusi Mitama       | 40 | and skill modification.                    |
+|        | Saki Mitama       | 35 |                                            |
+|________|___________________|____|____________________________________________|
+
+
+The Demons
+¯¯¯¯¯¯¯¯¯¯
+  The Demons are listed by level and include the base stats, which are subject
+to change as you fuse due to inheret stats. The skills listed are the basic
+ones that will always be there and cannot be removed with a Release Add-On.
+Some Demons do not have base skills and thus are fully customizable.
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Poltergeist                Level 1 | | Kabuso                     Level 2 |
+|------------------------------------| |------------------------------------|
+| HP: 26  | Physical: --             | | HP: 33  | Physical: --             |
+| MP: 14  | Fire:     --             | | MP: 21  | Fire:     Strong         |
+| St: 4   | Ice:      --             | | St: 4   | Ice:      --             |
+| Ma: 5   | Electric: Weak           | | Ma: 6   | Electric: Weak           |
+| Vi: 4   | Force:    Weak           | | Vi: 4   | Force:    --             |
+| Ag: 4   | Curse:    Strong         | | Ag: 4   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Bufu               | | Command Skills: Agi                |
+|                 --                 | |                 Zan                |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Ghost Wounds       | | Race Skill:     Animal Leg         |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Pixie                      Level 2 | | Obariyon                   Level 3 |
+|------------------------------------| |------------------------------------|
+| HP: 30  | Physical: --             | | HP: 56  | Physical: --             |
+| MP: 27  | Fire:     Weak           | | MP: 14  | Fire:     --             |
+| St: 3   | Ice:      --             | | St: 6   | Ice:      Weak           |
+| Ma: 7   | Electric: Strong         | | Ma: 4   | Electric: Weak           |
+| Vi: 4   | Force:    --             | | Vi: 5   | Force:    --             |
+| Ag: 4   | Curse:    --             | | Ag: 4   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Dia                | | Command Skills: Extra Cancel       |
+|                 Zio                | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Glamour            | | Race Skill:     Bind               |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Kobold                     Level 3 | | Agathion                   Level 6 |
+|------------------------------------| |------------------------------------|
+| HP: 48  | Physical: --             | | HP: 57  | Physical: --             |
+| MP: 12  | Fire:     Weak           | | MP: 32  | Fire:     --             |
+| St: 4   | Ice:      --             | | St: 5   | Ice:      Weak           |
+| Ma: 3   | Electric: --             | | Ma: 7   | Electric: Strong         |
+| Vi: 5   | Force:    --             | | Vi: 5   | Force:    Strong         |
+| Ag: 7   | Curse:    Weak           | | Ag: 5   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Snipe              | | Command Skills: Zio                |
+|                 --                 | |                 Agi                |
+|                 --                 | |                 --                 |
+| Passive Skills: Hero Aid           | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Aggravate          | | Race Skill:     Ghost Wounds       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Tam Lin*                   Level 6 | | Erthys                     Level 7 |
+|------------------------------------| |------------------------------------|
+| HP: 66  | Physical: --             | | HP: 75  | Physical: --             |
+| MP: 16  | Fire:     --             | | MP: 36  | Fire:     --             |
+| St: 9   | Ice:      --             | | St: 6   | Ice:      --             |
+| Ma: 2   | Electric: Strong         | | Ma: 5   | Electric: --             |
+| Vi: 5   | Force:    Weak           | | Vi: 8   | Force:    Weak           |
+| Ag: 6   | Curse:    --             | | Ag: 4   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Anger Hit          | | Command Skills: Amrita             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Up            | | Passive Skills: Phys Up            |
+|                 Knight Soul        | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Phantasm           | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Knocker                    Level 7 | | Itsumade                   Level 8 |
+|------------------------------------| |------------------------------------|
+| HP: 90  | Physical: --             | | HP: 57  | Physical: --             |
+| MP: 22  | Fire:     Strong         | | MP: 40  | Fire:     --             |
+| St: 7   | Ice:      Strong         | | St: 5   | Ice:      Weak           |
+| Ma: 4   | Electric: Weak           | | Ma: 7   | Electric: Weak           |
+| Vi: 8   | Force:    Weak           | | Vi: 3   | Force:    Null           |
+| Ag: 4   | Curse:    --             | | Ag: 9   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Zan                | | Command Skills: Zan                |
+|                 Dia                | |                 Extra Cancel       |
+|                 --                 | |                 --                 |
+| Passive Skills: Extra Bonus        | | Passive Skills: +Poison            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Glamour            | | Race Skill:     Flight             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ogre                       Level 8 | | Kikimora                   Level 9 |
+|------------------------------------| |------------------------------------|
+| HP: 112 | Physical: --             | | HP: 70  | Physical: --             |
+| MP: 13  | Fire:     Weak           | | MP: 54  | Fire:     --             |
+| St: 10  | Ice:      Strong         | | St: 5   | Ice:      --             |
+| Ma: 5   | Electric: Weak           | | Ma: 9   | Electric: --             |
+| Vi: 6   | Force:    Weak           | | Vi: 5   | Force:    Weak           |
+| Ag: 3   | Curse:    --             | | Ag: 6   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Anger Hit          | | Command Skills: Dia                |
+|                 --                 | |                 Zan                |
+|                 --                 | |                 --                 |
+| Passive Skills: Knight Soul        | | Passive Skills: Mana Bonus         |
+|                 Watchful           | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Bind               | | Race Skill:     Devotion           |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Hare of Inaba              Level 9 | | Bilwis                    Level 10 |
+|------------------------------------| |------------------------------------|
+| HP: 72  | Physical: --             | | HP: 119 | Physical: --             |
+| MP: 45  | Fire:     Weak           | | MP: 7   | Fire:     Strong         |
+| St: 5   | Ice:      Strong         | | St: 8   | Ice:      --             |
+| Ma: 6   | Electric: --             | | Ma: 4   | Electric: Weak           |
+| Vi: 5   | Force:    --             | | Vi: 7   | Force:    Null           |
+| Ag: 9   | Curse:    Weak           | | Ag: 7   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Dia                | | Command Skills: Fatal Strike       |
+|                 Amrita             | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Extra Bonus        | | Passive Skills: Hero Aid           |
+|                 --                 | |                 Race-D             |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Speed        | | Race Skill:     Aggravate          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Hairy Jack                Level 10 | | Gagyson                   Level 11 |
+|------------------------------------| |------------------------------------|
+| HP: 84  | Physical: Strong         | | HP: 102 | Physical: --             |
+| MP: 30  | Fire:     --             | | MP: 38  | Fire:     --             |
+| St: 7   | Ice:      Strong         | | St: 6   | Ice:      --             |
+| Ma: 5   | Electric: Weak           | | Ma: 8   | Electric: --             |
+| Vi: 5   | Force:    --             | | Vi: 6   | Force:    Weak           |
+| Ag: 9   | Curse:    --             | | Ag: 7   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Anger Hit          | | Command Skills: Zio                |
+|                 --                 | |                 Elec Dance         |
+|                 --                 | |                 --                 |
+| Passive Skills: +Poison            | | Passive Skills: Counter            |
+|                 Life Bonus         | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Animal Leg         | | Race Skill:     Sacrifice          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Aeros                     Level 12 | | Toubyou                   Level 12 |
+|------------------------------------| |------------------------------------|
+| HP: 90  | Physical: --             | | HP: 112 | Physical: --             |
+| MP: 60  | Fire:     --             | | MP: 40  | Fire:     --             |
+| St: 5   | Ice:      --             | | St: 7   | Ice:      Weak           |
+| Ma: 8   | Electric: Strong         | | Ma: 8   | Electric: Strong         |
+| Vi: 6   | Force:    Strong         | | Vi: 5   | Force:    --             |
+| Ag: 9   | Curse:    Null           | | Ag: 8   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Zio                | | Command Skills: Zio                |
+|                 --                 | |                 Elec Dance         |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Life Bonus         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     --                 | | Race Skill:     Evil Wave          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Jambavan                  Level 13 | | Heqet                     Level 13 |
+|------------------------------------| |------------------------------------|
+| HP: 174 | Physical: --             | | HP: 120 | Physical: --             |
+| MP: 17  | Fire:     --             | | MP: 46  | Fire:     Weak           |
+| St: 11  | Ice:      Weak           | | St: 8   | Ice:      Null           |
+| Ma: 4   | Electric: Weak           | | Ma: 10  | Electric: Strong         |
+| Vi: 10  | Force:    Strong         | | Vi: 7   | Force:    --             |
+| Ag: 4   | Curse:    --             | | Ag: 4   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Agi                | | Command Skills: Bufu               |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Knight Soul        | | Passive Skills: Knight Soul        |
+|                 Race-O             | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Phantasm           | | Race Skill:     Switch             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Kijimunaa                 Level 14 | | Makara                    Level 14 |
+|------------------------------------| |------------------------------------|
+| HP: 100 | Physical: --             | | HP: 146 | Physical: --             |
+| MP: 72  | Fire:     Weak           | | MP: 44  | Fire:     --             |
+| St: 6   | Ice:      --             | | St: 7   | Ice:      --             |
+| Ma: 8   | Electric: --             | | Ma: 8   | Electric: Repel          |
+| Vi: 6   | Force:    --             | | Vi: 6   | Force:    Weak           |
+| Ag: 10  | Curse:    Null           | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Force Dance        | | Command Skills: Taunt              |
+|                 --                 | |                 Dia                |
+|                 --                 | |                 --                 |
+| Passive Skills: Mana Bonus         | | Passive Skills: Anti-Curse         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Glamour            | | Race Skill:     Constrict          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Angel                     Level 15 | | Mokoi                     Level 15 |
+|------------------------------------| |------------------------------------|
+| HP: 132 | Physical: --             | | HP: 168 | Physical: --             | 
+| MP: 50  | Fire:     --             | | MP: 22  | Fire:     Weak           |
+| St: 7   | Ice:      Strong         | | St: 9   | Ice:      Null           |
+| Ma: 10  | Electric: --             | | Ma: 7   | Electric: --             |
+| Vi: 7   | Force:    Weak           | | Vi: 9   | Force:    --             |
+| Ag: 7   | Curse:    --             | | Ag: 6   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Dia                | | Command Skills: Fatal Strike       |
+|                 Force Dance        | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Watchful           |
+|                 --                 | |                 Moneybags          |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Wine         | | Race Skill:     Bind               |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Tenong Cut                Level 16 | | Moh Shuvuu                Level 16 |
+|------------------------------------| |------------------------------------|
+| HP: 161 | Physical: --             | | HP: 133 | Physical: --             |
+| MP: 52  | Fire:     Weak           | | MP: 50  | Fire:     --             |
+| St: 7   | Ice:      --             | | St: 9   | Ice:      --             |
+| Ma: 10  | Electric: Null           | | Ma: 6   | Electric: Drain          |
+| Vi: 10  | Force:    --             | | Vi: 7   | Force:    Weak           |
+| Ag: 5   | Curse:    --             | | Ag: 10  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Paral Eyes         | | Command Skills: Bufu               |
+|                 --                 | |                 Ice Dance          |
+|                 --                 | |                 --                 |
+| Passive Skills: +Paralyze          | | Passive Skills: Watchful           |
+|                 Dodge              | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Ghost Wounds       | | Race Skill:     Flight             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Waira                     Level 17 | | Aquans                    Level 17 |
+|------------------------------------| |------------------------------------|
+| HP: 149 | Physical: --             | | HP: 120 | Physical: --             |
+| MP: 48  | Fire:     Weak           | | MP: 84  | Fire:     --             |
+| St: 9   | Ice:      --             | | St: 7   | Ice:      Repel          |
+| Ma: 10  | Electric: --             | | Ma: 11  | Electric: --             |
+| Vi: 6   | Force:    --             | | Vi: 7   | Force:    --             |
+| Ag: 8   | Curse:    Null           | | Ag: 8   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Force Dance        | | Command Skills: Ice Dance          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Up            | | Passive Skills: --                 |
+|                 Life Bonus         | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Speed        | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Lilim                     Level 18 | | Gozuki                    Level 18 |
+|------------------------------------| |------------------------------------|
+| HP: 137 | Physical: --             | | HP: 203 | Physical: --             |
+| MP: 72  | Fire:     --             | | MP: 22  | Fire:     Repel          |
+| St: 8   | Ice:      Weak           | | St: 13  | Ice:      Weak           |
+| Ma: 11  | Electric: Null           | | Ma: 4   | Electric: --             |
+| Vi: 8   | Force:    --             | | Vi: 11  | Force:    Strong         |
+| Ag: 7   | Curse:    --             | | Ag: 6   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Sexy Gaze          | | Command Skills: Berserk            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Elec          | | Passive Skills: Race-O             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devotion           | | Race Skill:     Aggravate          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Abraxas                   Level 19 | | Sarasvati                 Level 19 |
+|------------------------------------| |------------------------------------|
+| HP: 132 | Physical: Strong         | | HP: 135 | Physical: --             |
+| MP: 90  | Fire:     --             | | MP: 105 | Fire:     Weak           |
+| St: 11  | Ice:      --             | | St: 6   | Ice:      --             |
+| Ma: 11  | Electric: Weak           | | Ma: 14  | Electric: --             |
+| Vi: 5   | Force:    Weak           | | Vi: 8   | Force:    --             |
+| Ag: 8   | Curse:    --             | | Ag: 7   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Force Dance        | | Command Skills: Diarama            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Race-D             | | Passive Skills: Anti-Force         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Sacrifice          | | Race Skill:     Affection          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Nekomata                  Level 19 | | Ubelluris                 Level 18 |
+|------------------------------------| |------------------------------------|
+| HP: 176 | Physical: --             | | HP: 211 | Physical: --             |
+| MP: 46  | Fire:     --             | | MP: 24  | Fire:     --             |
+| St: 10  | Ice:      --             | | St: 14  | Ice:      --             |
+| Ma: 4   | Electric: Weak           | | Ma: 4   | Electric: --             |
+| Vi: 9   | Force:    Drain          | | Vi: 12  | Force:    --             |
+| Ag: 12  | Curse:    --             | | Ag: 6   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Paral Eyes         | | Command Skills: Berserk            |
+|                 Multi-Hit          | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: +Paralyze          | | Passive Skills: Counter            |
+|                 Anti-Force         | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Animal Leg         | | Race Skill:     Double Up          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Bai Suzhen                Level 20 | | Jack Frost                Level 21 |
+|------------------------------------| |------------------------------------|
+| HP: 151 | Physical: --             | | HP: 186 | Physical: --             |
+| MP: 69  | Fire:     Weak           | | MP: 66  | Fire:     Weak           |
+| St: 10  | Ice:      Repel          | | St: 9   | Ice:      Drain          |
+| Ma: 9   | Electric: Strong         | | Ma: 12  | Electric: --             |
+| Vi: 7   | Force:    --             | | Vi: 10  | Force:    --             |
+| Ag: 10  | Curse:    --             | | Ag: 6   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Diarama            | | Command Skills: Ice Dance          |
+|                 --                 | |                 Mabufu             |
+|                 --                 | |                 --                 |
+| Passive Skills: Grimoire           | | Passive Skills: Anti-Ice           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Wave          | | Race Skill:     Glamour            |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ictinike                  Level 21 | | Apis*                     Level 21 |
+|------------------------------------| |------------------------------------|
+| HP: 162 | Physical: --             | | HP: 147 | Physical: --             |
+| MP: 62  | Fire:     Null           | | MP: 108 | Fire:     --             |
+| St: 12  | Ice:      Weak           | | St: 8   | Ice:      --             |
+| Ma: 10  | Electric: --             | | Ma: 12  | Electric: Strong         |
+| Vi: 6   | Force:    --             | | Vi: 8   | Force:    Weak           |
+| Ag: 9   | Curse:    Strong         | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Elec Dance         | | Command Skills: Fire Dance         |
+|                 Mow Down           | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Quick Move         | | Passive Skills: Moneybags          |
+|                 --                 | |                 Anti-Elec          |
+|                 --                 | |                 --                 |
+| Race Skill:     Phantasm           | | Race Skill:     Switch             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Mahakala                  Level 22 | | Flaemis                   Level 22 |
+|------------------------------------| |------------------------------------|
+| HP: 176 | Physical: --             | | HP: 150 | Physical: --             |
+| MP: 85  | Fire:     Strong         | | MP: 105 | Fire:     Drain          |
+| St: 11  | Ice:      Weak           | | St: 9   | Ice:      Weak           |
+| Ma: 11  | Electric: Strong         | | Ma: 13  | Electric: --             |
+| Vi: 9   | Force:    --             | | Vi: 8   | Force:    --             |
+| Ag: 7   | Curse:    Strong         | | Ag: 8   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Maragi             |
+|                 --                 | |                 --                 |</span><span id="faqspan-2">
+|                 --                 | |                 --                 |
+| Passive Skills: Quick Move         | | Passive Skills: --                 |
+|                 Double Strike      | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Awakening          | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Nozuchi                   Level 23 | | Orcus                     Level 23 |
+|------------------------------------| |------------------------------------|
+| HP: 229 | Physical: --             | | HP: 210 | Physical: Weak           |
+| MP: 54  | Fire:     Weak           | | MP: 52  | Fire:     --             |
+| St: 13  | Ice:      Strong         | | St: 18  | Ice:      Strong         |
+| Ma: 7   | Electric: --             | | Ma: 3   | Electric: Strong         |
+| Vi: 14  | Force:    Drain          | | Vi: 12  | Force:    --             |
+| Ag: 5   | Curse:    Weak           | | Ag: 6   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Nigayomogi         | | Command Skills: Brutal Hit         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Grimoire           | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Constrict          | | Race Skill:     Chaos Wave         |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ogun                      Level 23 | | Hamsa                     Level 24 |
+|------------------------------------| |------------------------------------|
+| HP: 256 | Physical: --             | | HP: 190 | Physical: --             |
+| MP: 29  | Fire:     Strong         | | MP: 71  | Fire:     --             |
+| St: 15  | Ice:      Weak           | | St: 9   | Ice:      --             |
+| Ma: 6   | Electric: --             | | Ma: 6   | Electric: --             |
+| Vi: 9   | Force:    --             | | Vi: 10  | Force:    Drain          |
+| Ag: 9   | Curse:    Null           | | Ag: 15  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Fire Dance         | | Command Skills: Mazan              |
+|                 Multi-Hit          | |                 Diarama            |
+|                 --                 | |                 --                 |
+| Passive Skills: Counter            | | Passive Skills: --                 |
+|                 Anti-Fire          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Bind               | | Race Skill:     Flight             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Power                     Level 24 | | Garm                      Level 25 |
+|------------------------------------| |------------------------------------|
+| HP: 222 | Physical: --             | | HP: 295 | Physical: --             |
+| MP: 49  | Fire:     --             | | MP: 48  | Fire:     Strong         |
+| St: 15  | Ice:      --             | | St: 15  | Ice:      Weak           |
+| Ma: 7   | Electric: Strong         | | Ma: 5   | Electric: --             |
+| Vi: 13  | Force:    --             | | Vi: 10  | Force:    Weak           |
+| Ag: 5   | Curse:    Weak           | | Ag: 11  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Extra Cancel       | | Command Skills: Berserk            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Vigilant           | | Passive Skills: Life Surge         |
+|                 Anti-Elec          | |                 Counter            |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Wine         | | Race Skill:     Devil Speed        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Kumbhanda                 Level 25 | | Mezuki                    Level 25 |
+|------------------------------------| |------------------------------------|
+| HP: 224 | Physical: --             | | HP: 214 | Physical: --             |
+| MP: 41  | Fire:     Weak           | | MP: 92  | Fire:     Repel          |
+| St: 11  | Ice:      Drain          | | St: 11  | Ice:      Weak           |
+| Ma: 10  | Electric: Weak           | | Ma: 12  | Electric: Strong         |
+| Vi: 7   | Force:    --             | | Vi: 9   | Force:    --             |
+| Ag: 13  | Curse:    --             | | Ag: 9   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Assassinate        | | Command Skills: Mazio              |
+|                 Desperation        | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Curse         | | Passive Skills: Race-O             |
+|                 --                 | |                 Elec Boost         |
+|                 --                 | |                 --                 |
+| Race Skill:     Ghost Wounds       | | Race Skill:     Aggravate          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Flauros                   Level 26 | | Leanan Sidhe              Level 26 |
+|------------------------------------| |------------------------------------|
+| HP: 207 | Physical: --             | | HP: 170 | Physical: --             |
+| MP: 94  | Fire:     Null           | | MP: 126 | Fire:     Weak           |
+| St: 14  | Ice:      Weak           | | St: 8   | Ice:      Repel          |
+| Ma: 9   | Electric: --             | | Ma: 16  | Electric: --             |
+| Vi: 11  | Force:    --             | | Vi: 8   | Force:    --             |
+| Ag: 8   | Curse:    Weak           | | Ag: 10  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Maragi             | | Command Skills: Media              |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: +Forget            | | Passive Skills: Anti-Ailment       |
+|                 Mana Surge         | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Sacrifice          | | Race Skill:     Devotion           |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ghost Q*                  Level 26 | | King Frost*               Level 26 |
+|------------------------------------| |------------------------------------|
+| HP: 216 | Physical: --             | | HP: 216 | Physical: --             |
+| MP: 103 | Fire:     --             | | MP: 74  | Fire:     Weak           |
+| St: 9   | Ice:      Strong         | | St: 14  | Ice:      Drain          |
+| Ma: 11  | Electric: Strong         | | Ma: 11  | Electric: Strong         |
+| Vi: 10  | Force:    --             | | Vi: 10  | Force:    Strong         |
+| Ag: 12  | Curse:    Strong         | | Ag: 7   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Berserk            | | Command Skills: Mabufu             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Ice Boost          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Uncanny FOrm       | | Race Skill:     Tyranny            |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Orthrus                   Level 27 | | Kikuri-Hime               Level 27 |
+|------------------------------------| |------------------------------------|
+| HP: 234 | Physical: --             | | HP: 195 | Physical: --             |
+| MP: 68  | Fire:     Drain          | | MP: 126 | Fire:     Weak           |
+| St: 14  | Ice:      Weak           | | St: 9   | Ice:      --             |
+| Ma: 7   | Electric: --             | | Ma: 15  | Electric: --             |
+| Vi: 12  | Force:    Strong         | | Vi: 12  | Force:    --             |
+| Ag: 10  | Curse:    --             | | Ag: 7   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Desperation        | | Command Skills: Media              |
+|                 --                 | |                 Recarm             |
+|                 --                 | |                 --                 |
+| Passive Skills: Retaliate          | | Passive Skills: --                 |
+|                 Preserve Extra     | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Animal Leg         | | Race Skill:     Affection          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Tlaloc                    Level 28 | | Nalagiri                  Level 28 |
+|------------------------------------| |------------------------------------|
+| HP: 216 | Physical: --             | | HP: 285 | Physical: Strong         |
+| MP: 92  | Fire:     Strong         | | MP: 35  | Fire:     --             |
+| St: 14  | Ice:      Weak           | | St: 14  | Ice:      --             |
+| Ma: 14  | Electric: --             | | Ma: 7   | Electric: --             |
+| Vi: 8   | Force:    --             | | Vi: 14  | Force:    --             |
+| Ag: 8   | Curse:    Strong         | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Maragi             | | Command Skills: Power Hit          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Boost         | | Passive Skills: Anti-Phys          |
+|                 +Forget            | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Phantasm           | | Race Skill:     Double Up          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Shiisaa                   Level 28 | | Basilisk                  Level 28 |
+|------------------------------------| |------------------------------------|
+| HP: 240 | Physical: --             | | HP: 220 | Physical: --             |
+| MP: 74  | Fire:     Weak           | | MP: 90  | Fire:     --             |
+| St: 13  | Ice:      --             | | St: 13  | Ice:      --             |
+| Ma: 9   | Electric: Drain          | | Ma: 13  | Electric: Weak           |
+| Vi: 12  | Force:    --             | | Vi: 10  | Force:    Strong         |
+| Ag: 10  | Curse:    Strong         | | Ag: 8   | Curse:    Repel          |
+|====================================| |====================================|
+| Command Skills: Power Hit          | | Command Skills: Petra Eyes         |
+|                 Mazio              | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Elec Boost         | | Passive Skills: Anti-Force         |
+|                 --                 | |                 +Stone             |
+|                 --                 | |                 --                 |
+| Race Skill:     Switch             | | Race Skill:     Evil Wave          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Pyro Jack                 Level 29 | | Thor*                     Level 29 |
+|------------------------------------| |------------------------------------|
+| HP: 205 | Physical: --             | | HP: 292 | Physical: --             |
+| MP: 129 | Fire:     Drain          | | MP: 44  | Fire:     --             |
+| St: 10  | Ice:      Weak           | | St: 21  | Ice:      --             |
+| Ma: 14  | Electric: --             | | Ma: 5   | Electric: Drain          |
+| Vi: 12  | Force:    --             | | Vi: 16  | Force:    --             |
+| Ag: 9   | Curse:    --             | | Ag: 3   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Fire Dance         | | Command Skills: Mazio              |
+|                 Maragi             | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Boost         | | Passive Skills: Ares Aid           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Glamour            | | Race Skill:     Awakening          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Pendragon                 Level 30 | | Wendigo                   Level 31 |
+|------------------------------------| |------------------------------------|
+| HP: 287 | Physical: --             | | HP: 301 | Physical: --             |
+| MP: 37  | Fire:     Weak           | | MP: 76  | Fire:     Weak           |
+| St: 22  | Ice:      --             | | St: 15  | Ice:      Repel          |
+| Ma: 7   | Electric: Weak           | | Ma: 7   | Electric: --             |
+| Vi: 11  | Force:    --             | | Vi: 12  | Force:    --             |
+| Ag: 6   | Curse:    Strong         | | Ag: 13  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Ice Dance          |
+|                 --                 | |                 Brutal HIt         |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Curse         | | Passive Skills: Anti-Ice           |
+|                 Paladin Soul       | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Constrict          | | Race Skill:     Bind               |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Suparna                   Level 31 | | Hathor*                   Level 21 |
+|------------------------------------| |------------------------------------|
+| HP: 205 | Physical: Strong         | | HP: 200 | Physical: Weak           |
+| MP: 132 | Fire:     --             | | MP: 161 | Fire:     --             |
+| St: 9   | Ice:      --             | | St: 10  | Ice:      --             |
+| Ma: 13  | Electric: Weak           | | Ma: 18  | Electric: --             |
+| Vi: 10  | Force:    Strong         | | Vi: 9   | Force:    --             |
+| Ag: 15  | Curse:    Weak           | | Ag: 10  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mow Down           | | Command Skills: Recarm             |
+|                 Mazan              | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: +Paralyze          | | Passive Skills: Mana Surge         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Flight             | | Race Skill:     Affection          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Neko Shogun*              Level 31 | | Lailah                    Level 32 |
+|------------------------------------| |------------------------------------|
+| HP: 253 | Physical: Strong         | | HP: 196 | Physical: --             |
+| MP: 139 | Fire:     --             | | MP: 144 | Fire:     --             |
+| St: 11  | Ice:      --             | | St: 12  | Ice:      Null           |
+| Ma: 17  | Electric: --             | | Ma: 16  | Electric: Strong         |
+| Vi: 8   | Force:    Weak           | | Vi: 9   | Force:    --             |
+| Ag: 11  | Curse:    Null           | | Ag: 11  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mow Down           | | Command Skills: Mabufu             |
+|                 Power Charge       | |                 Recarm             |
+|                 --                 | |                 --                 |
+| Passive Skills: Paladin Soul       | | Passive Skills: Extra Bonus        |
+|                 --                 | |                 Ice Boost          |
+|                 --                 | |                 --                 |
+| Race Skill:     Hero's Mark        | | Race Skill:     Blood Wine         |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Baphomet                  Level 32 | | Kamapua'a*                Level 32 |
+|------------------------------------| |------------------------------------|
+| HP: 213 | Physical: Weak           | | HP: 258 | Physical: --             |
+| MP: 159 | Fire:     Strong         | | MP: 102 | Fire:     Weak           |
+| St: 9   | Ice:      Strong         | | St: 14  | Ice:      --             |
+| Ma: 18  | Electric: --             | | Ma: 9   | Electric: --             |
+| Vi: 9   | Force:    --             | | Vi: 11  | Force:    --             |
+| Ag: 12  | Curse:    Null           | | Ag: 14  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Maragi             | | Command Skills: Diarahan           |
+|                 Drain              | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Ares Aid           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Chaos Wave         | | Race Skill:     Switch             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Moloch*                   Level 33 | | Hanuman                   Level 33 |
+|------------------------------------| |------------------------------------|
+| HP: 258 | Physical: --             | | HP: 270 | Physical: Strong         |
+| MP: 103 | Fire:     Null           | | MP: 88  | Fire:     --             |
+| St: 19  | Ice:      --             | | St: 13  | Ice:      --             |
+| Ma: 12  | Electric: --             | | Ma: 9   | Electric: --             |
+| Vi: 10  | Force:    --             | | Vi: 10  | Force:    Weak           |
+| Ag: 8   | Curse:    Strong         | | Ag: 17  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Berserk            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Ares Aid           | | Passive Skills: Retaliate          |
+|                 Null Fire          | |                 Life Aid           |
+|                 --                 | |                 --                 |
+| Race Skill:     Tyranny            | | Race Skill:     Phantasm           |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Barbatos                  Level 33 | | Arahabaki*                Level 33 |
+|------------------------------------| |------------------------------------|
+| HP: 232 | Physical: --             | | HP: 278 | Physical: Null           |
+| MP: 138 | Fire:     --             | | MP: 105 | Fire:     Weak           |
+| St: 11  | Ice:      --             | | St: 18  | Ice:      Repel          |
+| Ma: 13  | Electric: Weak           | | Ma: 13  | Electric: Weak           |
+| Vi: 10  | Force:    Drain          | | Vi: 12  | Force:    Weak           |
+| Ag: 15  | Curse:    Strong         | | Ag: 6   | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Mighty Hit         | | Command Skills: Bufudyne           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Force Boost        | | Passive Skills: Life Aid           |
+|                 Crit Up            | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Sacrifice          | | Race Skill:     Awakening          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Afanc                     Level 33 | | Ikusa                     Level 33 |
+|------------------------------------| |------------------------------------|
+| HP: 282 | Physical: Strong         | | HP: 264 | Physical: --             |
+| MP: 82  | Fire:     Weak           | | MP: 107 | Fire:     Null           |
+| St: 13  | Ice:      --             | | St: 17  | Ice:      --             |
+| Ma: 8   | Electric: --             | | Ma: 12  | Electric: --             |
+| Vi: 14  | Force:    Strong         | | Vi: 11  | Force:    Weak           |
+| Ag: 14  | Curse:    --             | | Ag: 9   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Mow Down           | | Command Skills: Assassinate        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Boost         | | Passive Skills: +Stone             |
+|                 Retaliate          | |                 Retaliate          |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Speed        | | Race Skill:     Aggravate          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Tonatiuh*                 Level 34 | | Loa                       Level 34 |
+|------------------------------------| |------------------------------------|
+| HP: 266 | Physical: --             | | HP: 396 | Physical: --             |
+| MP: 116 | Fire:     Strong         | | MP: 104 | Fire:     Weak           |
+| St: 18  | Ice:      Null           | | St: 12  | Ice:      --             |
+| Ma: 9   | Electric: --             | | Ma: 18  | Electric: --             |
+| Vi: 12  | Force:    --             | | Vi: 13  | Force:    --             |
+| Ag: 11  | Curse:    Strong         | | Ag: 7   | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Might Call         | | Command Skills: Power Charge       |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Boost         | | Passive Skills: Life Surge         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Asura Karma        | | Race Skill:     Ghost Wounds       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Yuki Jyorou               Level 34 | | Brigid                    Level 35 |
+|------------------------------------| |------------------------------------|
+| HP: 220 | Physical: --             | | HP: 225 | Physical: --             |
+| MP: 153 | Fire:     Weak           | | MP: 159 | Fire:     Strong         |
+| St: 9   | Ice:      Drain          | | St: 10  | Ice:      Weak           |
+| Ma: 17  | Electric: --             | | Ma: 18  | Electric: Strong         |
+| Vi: 10  | Force:    --             | | Vi: 10  | Force:    --             |
+| Ag: 14  | Curse:    --             | | Ag: 13  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mabufu             | | Command Skills: Media              |
+|                 Marin Karin        | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Drain Hit          | | Passive Skills: Null Fire          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devotion           | | Race Skill:     Affection          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Cait Sith                 Level 35 | | Saki Mitama               Level 35 |
+|------------------------------------| |------------------------------------|
+| HP: 276 | Physical: --             | | HP: 280 | Physical: --             |
+| MP: 109 | Fire:     --             | | MP: 135 | Fire:     --             |
+| St: 10  | Ice:      --             | | St: 10  | Ice:      --             |
+| Ma: 15  | Electric: Weak           | | Ma: 10  | Electric: --             |
+| Vi: 11  | Force:    Strong         | | Vi: 21  | Force:    --             |
+| Ag: 15  | Curse:    --             | | Ag: 10  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mazan              | | Command Skills: --                 |
+|                 Maragi             | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Force Boost        | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Animal Leg         | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Hitokotonusi*             Level 36 | | Asp                       Level 36 |
+|------------------------------------| |------------------------------------|
+| HP: 346 | Physical: Drain          | | HP: 258 | Physical: --             |
+| MP: 44  | Fire:     Weak           | | MP: 142 | Fire:     Weak           |
+| St: 17  | Ice:      Strong         | | St: 9   | Ice:      Weak           |
+| Ma: 8   | Electric: Weak           | | Ma: 15  | Electric: --             |
+| Vi: 15  | Force:    Null           | | Vi: 11  | Force:    Drain          |
+| Ag: 12  | Curse:    --             | | Ag: 17  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Might Call         | | Command Skills: Weak Kill          |
+|                 Mighty Hit         | |                 Life Drain         |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Drain Hit          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Double Up          | | Race Skill:     Evil Wave          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Botis*                    Level 37 | | Cu Chulainn*              Level 37 |
+|------------------------------------| |------------------------------------|
+| HP: 280 | Physical: --             | | HP: 343 | Physical: Strong         |
+| MP: 183 | Fire:     --             | | MP: 50  | Fire:     --             |
+| St: 13  | Ice:      --             | | St: 21  | Ice:      Weak           |
+| Ma: 14  | Electric: Repel          | | Ma: 9   | Electric: Strong         |
+| Vi: 18  | Force:    --             | | Vi: 12  | Force:    Repel          |
+| Ag: 8   | Curse:    Null           | | Ag: 11  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Ziodyne            | | Command Skills: Mazio              |
+|                 Shield All         | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Pierce             |
+|                 --                 | |                 Phys Boost         |
+|                 --                 | |                 --                 |
+| Race Skill:     Sacrifice          | | Race Skill:     True Phantasm      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Bai Ze                    Level 37 | | Odin*                     Level 37 |
+|------------------------------------| |------------------------------------|
+| HP: 288 | Physical: --             | | HP: 278 | Physical: --             |
+| MP: 114 | Fire:     Strong         | | MP: 159 | Fire:     --             |
+| St: 12  | Ice:      Strong         | | St: 13  | Ice:      Strong         |
+| Ma: 15  | Electric: Strong         | | Ma: 20  | Electric: Null           |
+| Vi: 11  | Force:    Weak           | | Vi: 11  | Force:    Weak           |
+| Ag: 15  | Curse:    --             | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Diarama            | | Command Skills: Ziodyne            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Ailment       | | Passive Skills: Null Elec          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Switch             | | Race Skill:     Awakening          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Xiezhai*                  Level 37 | | Lorelei                   Level 37 |
+|------------------------------------| |------------------------------------|
+| HP: 297 | Physical: --             | | HP: 235 | Physical: --             |
+| MP: 141 | Fire:     Strong         | | MP: 168 | Fire:     --             |
+| St: 7   | Ice:      Strong         | | St: 9   | Ice:      --             |
+| Ma: 22  | Electric: Weak           | | Ma: 19  | Electric: Strong         |
+| Vi: 11  | Force:    --             | | Vi: 10  | Force:    Strong         |
+| Ag: 13  | Curse:    Strong         | | Ag: 15  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Nigayomogi         | | Command Skills: Marin Karin        |
+|                 --                 | |                 Diarahan           |
+|                 --                 | |                 --                 |
+| Passive Skills: Crit Up            | | Passive Skills: Vigilant           |
+|                 Extra One          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Speed        | | Race Skill:     Fairy Dust         |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Berserker*                Level 38 | | Gui Xian                  Level 38 |
+|------------------------------------| |------------------------------------|
+| HP: 392 | Physical: --             | | HP: 431 | Physical: Strong         |
+| MP: 43  | Fire:     --             | | MP: 78  | Fire:     --             |
+| St: 25  | Ice:      Null           | | St: 12  | Ice:      Null           |
+| Ma: 5   | Electric: --             | | Ma: 14  | Electric: Weak           |
+| Vi: 15  | Force:    --             | | Vi: 22  | Force:    --             |
+| Ag: 9   | Curse:    Weak           | | Ag: 6   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Power Charge       |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Endure             | | Passive Skills: Preserve Extra     |
+|                 Extra One          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Agitate            | | Race Skill:     Constrict          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Peri*                     Level 38 | | Hagen*                    Level 39 |
+|------------------------------------| |------------------------------------|
+| HP: 288 | Physical: --             | | HP: 296 | Physical: Strong         |
+| MP: 150 | Fire:     --             | | MP: 147 | Fire:     --             |
+| St: 8   | Ice:      --             | | St: 18  | Ice:      Weak           |
+| Ma: 22  | Electric: Drain          | | Ma: 10  | Electric: --             |
+| Vi: 10  | Force:    --             | | Vi: 14  | Force:    --             |
+| Ag: 14  | Curse:    Weak           | | Ag: 13  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Ziodyne            | | Command Skills: Assassinate        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Elec Drain         | | Passive Skills: Null Curse         |
+|                 Mana Stream        | |                 Hero Soul          |
+|                 --                 | |                 --                 |
+| Race Skill:     Devotion           | | Race Skill:     Hero's Mark        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Vidofnir                  Level 39 | | Legion                    Level 39 |
+|------------------------------------| |------------------------------------|
+| HP: 294 | Physical: --             | | HP: 290 | Physical: Strong         |
+| MP: 109 | Fire:     --             | | MP: 140 | Fire:     Weak           |
+| St: 16  | Ice:      --             | | St: 10  | Ice:      --             |
+| Ma: 11  | Electric: Drain          | | Ma: 27  | Electric: Weak           |
+| Vi: 10  | Force:    Weak           | | Vi: 19  | Force:    --             |
+| Ag: 18  | Curse:    --             | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Mazio              | | Command Skills: Petra Eyes         |
+|                 Drain              | |                 Bufudyne           |
+|                 --                 | |                 --                 |
+| Passive Skills: Swift Step         | | Passive Skills: Anti-Phys          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Winged Flight      | | Race Skill:     Evil Bind          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Balor*                    Level 40 | | Kusi Mitama               Level 40 |
+|------------------------------------| |------------------------------------|
+| HP: 267 | Physical: Null           | | HP: 255 | Physical: --             |
+| MP: 177 | Fire:     --             | | MP: 153 | Fire:     --             |
+| St: 16  | Ice:      Weak           | | St: 11  | Ice:      --             |
+| Ma: 19  | Electric: Weak           | | Ma: 11  | Electric: --             |
+| Vi: 11  | Force:    Weak           | | Vi: 11  | Force:    --             |
+| Ag: 10  | Curse:    Strong         | | Ag: 23  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Death Call         | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Crit Up            | | Passive Skills: --                 |
+|                 Life Stream        | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Tyranny            | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Pazuzu*                   Level 40 | | Sage of Time*             Level 41 |
+|------------------------------------| |------------------------------------|
+| HP: 285 | Physical: --             | | HP: 371 | Physical: --             |
+| MP: 171 | Fire:     --             | | MP: 132 | Fire:     Strong         |
+| St: 13  | Ice:      Weak           | | St: 9   | Ice:      Strong         |
+| Ma: 17  | Electric: --             | | Ma: 25  | Electric: Strong         |
+| Vi: 17  | Force:    Null           | | Vi: 12  | Force:    Strong         |
+| Ag: 9   | Curse:    Strong         | | Ag: 11  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Holy Dance         | | Command Skills: Death Call         |
+|                 --                 | |                 Petra Eyes         |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Force         | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Chaos Wave         | | Race Skill:     Uncanny Form       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Nisroc                    Level 41 | | Yama*                     Level 41 |
+|------------------------------------| |------------------------------------|
+| HP: 316 | Physical: --             | | HP: 318 | Physical: --             |
+| MP: 118 | Fire:     Null           | | MP: 117 | Fire:     Null           |
+| St: 14  | Ice:      Weak           | | St: 20  | Ice:      --             |
+| Ma: 18  | Electric: --             | | Ma: 15  | Electric: Strong         |
+| Vi: 10  | Force:    --             | | Vi: 12  | Force:    --             |
+| Ag: 15  | Curse:    Strong         | | Ag: 10  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Maragi             | | Command Skills: Agidyne            |
+|                 Weak Kill          | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Mana Stream        | | Passive Skills: Null Fire          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Sacrifice          | | Race Skill:     Awakening          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Pisaca                    Level 41 | | Kama*                     Level 42 |
+|------------------------------------| |------------------------------------|
+| HP: 415 | Physical: --             | | HP: 275 | Physical: Weak           |
+| MP: 108 | Fire:     Weak           | | MP: 210 | Fire:     Strong         |
+| St: 12  | Ice:      --             | | St: 14  | Ice:      Strong         |
+| Ma: 13  | Electric: --             | | Ma: 18  | Electric: Strong         |
+| Vi: 22  | Force:    Drain          | | Vi: 11  | Force:    Strong         |
+| Ag: 10  | Curse:    --             | | Ag: 15  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Life Drain         | | Command Skills: Marin Karin        |
+|                 --                 | |                 Shield All         |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Curse         | | Passive Skills: Anti-Ailment       |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Possession         | | Race Skill:     True Phantasm      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Aniel                     Level 42 | | Ixtab                     Level 42 |
+|------------------------------------| |------------------------------------|
+| HP: 413 | Physical: Strong         | | HP: 330 | Physical: Strong         |
+| MP: 104 | Fire:     --             | | MP: 167 | Fire:     --             |
+| St: 19  | Ice:      Null           | | St: 14  | Ice:      --             |
+| Ma: 10  | Electric: Strong         | | Ma: 20  | Electric: --             |
+| Vi: 17  | Force:    Strong         | | Vi: 15  | Force:    Weak           |
+| Ag: 12  | Curse:    --             | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Drain              | | Command Skills: Diarahan           |
+|                 --                 | |                 Death Call         |
+|                 --                 | |                 --                 |
+| Passive Skills: Swift Step         | | Passive Skills: Mana Stream        |
+|                 Null Ice           | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Wine         | | Race Skill:     Mother's Love      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Nue                       Level 42 | | Lhan Dearg                Level 43 |
+|------------------------------------| |------------------------------------|
+| HP: 370 | Physical: --             | | HP: 445 | Physical: --             |
+| MP: 97  | Fire:     Weak           | | MP: 52  | Fire:     --             |
+| St: 19  | Ice:      Strong         | | St: 21  | Ice:      --             |
+| Ma: 12  | Electric: Repel          | | Ma: 9   | Electric: Weak           |
+| Vi: 15  | Force:    --             | | Vi: 18  | Force:    --             |
+| Ag: 12  | Curse:    Weak           | | Ag: 11  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Ziodyne            | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Pierce             | | Passive Skills: Life Stream        |
+|                 --                 | |                 Endure             |
+|                 --                 | |                 --                 |
+| Race Skill:     Free Leap          | | Race Skill:     Agitate            |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Chernobog*                Level 43 | | Take-Mikazuchi*           Level 43 |
+|------------------------------------| |------------------------------------|
+| HP: 319 | Physical: --             | | HP: 417 | Physical: --             |
+| MP: 142 | Fire:     Weak           | | MP: 53  | Fire:     --             |
+| St: 20  | Ice:      Null           | | St: 23  | Ice:      --             |
+| Ma: 14  | Electric: Strong         | | Ma: 10  | Electric: Repel          |
+| Vi: 15  | Force:    --             | | Vi: 15  | Force:    Weak           |
+| Ag: 10  | Curse:    Strong         | | Ag: 11  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Gigajama           | | Command Skills: Mazio              |
+|                 --                 | |                 Multi-Strike       |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Ice           | | Passive Skills: Phys Boost         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Asura Karma        | | Race Skill:     Double Up          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Mothman                   Level 43 | | Scathach*                 Level 43 |
+|------------------------------------| |------------------------------------|
+| HP: 311 | Physical: --             | | HP: 280 | Physical: --             |
+| MP: 192 | Fire:     Null           | | MP: 186 | Fire:     Weak           |
+| St: 14  | Ice:      Strong         | | St: 18  | Ice:      --             |
+| Ma: 21  | Electric: Weak           | | Ma: 19  | Electric: Weak           |
+| Vi: 17  | Force:    --             | | Vi: 11  | Force:    Null           |
+| Ag: 7   | Curse:    Weak           | | Ag: 11  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Media              | | Command Skills: Recarm             |
+|                 Mazan              | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Endure             | | Passive Skills: Anti-Ailment       |
+|                 --                 | |                 Null Force         |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Speed        | | Race Skill:     Affection          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ym                        Level 44 | | Quetzalcoatl              Level 44 |
+|------------------------------------| |------------------------------------|
+| HP: 330 | Physical: --             | | HP: 426 | Physical: Strong         |
+| MP: 124 | Fire:     --             | | MP: 108 | Fire:     --             |
+| St: 14  | Ice:      --             | | St: 16  | Ice:      Null           |
+| Ma: 18  | Electric: --             | | Ma: 10  | Electric: Weak           |
+| Vi: 11  | Force:    Weak           | | Vi: 27  | Force:    --             |
+| Ag: 17  | Curse:    Null           | | Ag: 7   | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Petra Eyes         | | Command Skills: Mabufu             |</span><span id="faqspan-3">
+|                 Holy Dance         | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: +Stone             |
+|                 --                 | |                 Life Aid           |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Wave          | | Race Skill:     Constrict          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Silky                     Level 44 | | Inti*                     Level 45 |
+|------------------------------------| |------------------------------------|
+| HP: 267 | Physical: --             | | HP: 291 | Physical: Strong         |
+| MP: 234 | Fire:     Weak           | | MP: 214 | Fire:     Strong         |
+| St: 12  | Ice:      Null           | | St: 20  | Ice:      Weak           |
+| Ma: 23  | Electric: --             | | Ma: 20  | Electric: --             |
+| Vi: 13  | Force:    --             | | Vi: 10  | Force:    --             |
+| Ag: 12  | Curse:    Strong         | | Ag: 11  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Media              | | Command Skills: Zandyne            |
+|                 Diarahan           | |                 Ziodyne            |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Dual Shadow        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fairy Dust         | | Race Skill:     Awakening          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Bifrons*                  Level 45 | | Pabilsag*                 Level 45 |
+|------------------------------------| |------------------------------------|
+| HP: 306 | Physical: --             | | HP: 409 | Physical: Weak           |
+| MP: 234 | Fire:     Null           | | MP: 140 | Fire:     Null           |
+| St: 16  | Ice:      --             | | St: 19  | Ice:      Strong         |
+| Ma: 20  | Electric: Weak           | | Ma: 11  | Electric: --             |
+| Vi: 15  | Force:    --             | | Vi: 18  | Force:    --             |
+| Ag: 10  | Curse:    Strong         | | Ag: 13  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Agidyne            | | Command Skills: Multi-Strike       |
+|                 --                 | |                 Taunt              |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Amp           | | Passive Skills: Crit Up            |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fallen's Mark      | | Race Skill:     Switch             |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ara Mitama                Level 45 | | Hariti*                   Level 46 |
+|------------------------------------| |------------------------------------|
+| HP: 290 | Physical: --             | | HP: 360 | Physical: --             |
+| MP: 174 | Fire:     --             | | MP: 163 | Fire:     Strong         |
+| St: 22  | Ice:      --             | | St: 22  | Ice:      --             |
+| Ma: 13  | Electric: --             | | Ma: 17  | Electric: Null           |
+| Vi: 13  | Force:    --             | | Vi: 14  | Force:    Weak           |
+| Ag: 13  | Curse:    Null           | | Ag: 9   | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Maziodyne          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Elec Amp           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     --                 | | Race Skill:     Mother's Love      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Badb Catha                Level 46 | | Kresnik*                  Level 46 |
+|------------------------------------| |------------------------------------|
+| HP: 339 | Physical: Strong         | | HP: 381 | Physical: Strong         |
+| MP: 158 | Fire:     --             | | MP: 120 | Fire:     --             |
+| St: 18  | Ice:      --             | | St: 23  | Ice:      Strong         |
+| Ma: 12  | Electric: --             | | Ma: 14  | Electric: --             |
+| Vi: 18  | Force:    Weak           | | Vi: 11  | Force:    --             |
+| Ag: 14  | Curse:    Weak           | | Ag: 14  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Might Call         | | Command Skills: Mighty Hit         |
+|                 Zandyne            | |                 Agidyne            |
+|                 --                 | |                 --                 |
+| Passive Skills: Extra One          | | Passive Skills: Null Phys          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Winged Flight      | | Race Skill:     True Phantasm      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Hecate*                   Level 47 | | Girimehkala               Level 47 |
+|------------------------------------| |------------------------------------|
+| HP: 295 | Physical: --             | | HP: 422 | Physical: Repel          |
+| MP: 213 | Fire:     Strong         | | MP: 122 | Fire:     --             |
+| St: 15  | Ice:      Strong         | | St: 20  | Ice:      --             |
+| Ma: 24  | Electric: Strong         | | Ma: 14  | Electric: --             |
+| Vi: 12  | Force:    Strong         | | Vi: 19  | Force:    Weak           |
+| Ag: 12  | Curse:    Strong         | | Ag: 10  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Diarahan           | | Command Skills: Bufudyne           |
+|                 --                 | |                 Hassohappa         |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Most          | | Passive Skills: Ice Amp            |
+|                 Pierce             | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Tyranny            | | Race Skill:     Evil Bind          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Abaddon                   Level 48 | | Orobas                    Level 49 |
+|------------------------------------| |------------------------------------|
+| HP: 325 | Physical: Weak           | | HP: 346 | Physical: --             |
+| MP: 198 | Fire:     Strong         | | MP: 196 | Fire:     --             |
+| St: 17  | Ice:      Strong         | | St: 13  | Ice:      Weak           |
+| Ma: 18  | Electric: Strong         | | Ma: 21  | Electric: Strong         |
+| Vi: 17  | Force:    Strong         | | Vi: 14  | Force:    --             |
+| Ag: 12  | Curse:    Strong         | | Ag: 17  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Bufudyne           | | Command Skills: Mazio              |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Ice           | | Passive Skills: Null Curse         |
+|                 Anti-Most          | |                 Elec Amp           |
+|                 --                 | |                 --                 |
+| Race Skill:     Chaos Wave         | | Race Skill:     Fallen's Mark      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Mithra*                   Level 49 | | Nigi Mitama               Level 49 |
+|------------------------------------| |------------------------------------|
+| HP: 320 | Physical: Repel          | | HP: 315 | Physical: --             |
+| MP: 270 | Fire:     --             | | MP: 216 | Fire:     --             |
+| St: 15  | Ice:      Weak           | | St: 14  | Ice:      --             |
+| Ma: 26  | Electric: --             | | Ma: 23  | Electric: --             |
+| Vi: 15  | Force:    --             | | Vi: 14  | Force:    --             |
+| Ag: 9   | Curse:    --             | | Ag: 14  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Megido             | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Mana Stream        | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Awakening          | | Race Skill:     --                 |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Myrmecolion               Level 50 | | Dzelarhons*               Level 50 |
+|------------------------------------| |------------------------------------|
+| HP: 336 | Physical: --             | | HP: 333 | Physical: --             |
+| MP: 155 | Fire:     Strong         | | MP: 231 | Fire:     --             |
+| St: 22  | Ice:      --             | | St: 21  | Ice:      Weak           |
+| Ma: 15  | Electric: --             | | Ma: 20  | Electric: --             |
+| Vi: 10  | Force:    Weak           | | Vi: 13  | Force:    Drain          |
+| Ag: 19  | Curse:    --             | | Ag: 12  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Piercing Hit       | | Command Skills: Zandyne            |
+|                 --                 | |                 Tetrakarn          |
+|                 --                 | |                 --                 |
+| Passive Skills: Drain Hit          | | Passive Skills: Force Drain        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Free Leap          | | Race Skill:     Mother's Love      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Kudlak*                   Level 50 | | Taown                     Level 50 |
+|------------------------------------| |------------------------------------|
+| HP: 476 | Physical: Strong         | | HP: 341 | Physical: --             |
+| MP: 136 | Fire:     Weak           | | MP: 160 | Fire:     Weak           |
+| St: 20  | Ice:      Repel          | | St: 22  | Ice:      --             |
+| Ma: 12  | Electric: --             | | Ma: 17  | Electric: --             |
+| Vi: 18  | Force:    --             | | Vi: 11  | Force:    Strong         |
+| Ag: 16  | Curse:    --             | | Ag: 16  | Curse:    Repel          |
+|====================================| |====================================|
+| Command Skills: Bufudyne           | | Command Skills: Diarahan           |
+|                 --                 | |                 Gigajama           |
+|                 --                 | |                 --                 |
+| Passive Skills: Ice Amp            | | Passive Skills: Force Repel        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Possession         | | Race Skill:     Devil Flash        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Zouchouten*               Level 50 | | Billiken*                 Level 50 |
+|------------------------------------| |------------------------------------|
+| HP: 536 | Physical: --             | | HP: 330 | Physical: --             |
+| MP: 130 | Fire:     --             | | MP: 227 | Fire:     Strong         |
+| St: 22  | Ice:      --             | | St: 15  | Ice:      Strong         |
+| Ma: 15  | Electric: --             | | Ma: 21  | Electric: Strong         |
+| Vi: 17  | Force:    Weak           | | Vi: 16  | Force:    Strong         |
+| Ag: 12  | Curse:    Null           | | Ag: 14  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Agidyne            | | Command Skills: Life Drain         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Amp           | | Passive Skills: Moneybags          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Double Up          | | Race Skill:     Uncanny Form       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Jeanne d'Arc*             Level 50 | | Kazfiel                   Level 50 |
+|------------------------------------| |------------------------------------|
+| HP: 462 | Physical: Strong         | | HP: 421 | Physical: Strong         |
+| MP: 136 | Fire:     Weak           | | MP: 132 | Fire:     --             |
+| St: 23  | Ice:      --             | | St: 21  | Ice:      Repel          |
+| Ma: 12  | Electric: --             | | Ma: 16  | Electric: --             |
+| Vi: 18  | Force:    --             | | Vi: 18  | Force:    --             |
+| Ag: 13  | Curse:    Null           | | Ag: 11  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Hassohappa         | | Command Skills: Judgement          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Dual Shadow        | | Passive Skills: Ice Repel          |
+|                 Hero Soul          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Hero's Mark        | | Race Skill:     Angel Stigma       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Python                    Level 51 | | Laksmi                    Level 51 |
+|------------------------------------| |------------------------------------|
+| HP: 365 | Physical: --             | | HP: 297 | Physical: --             |
+| MP: 190 | Fire:     --             | | MP: 277 | Fire:     Weak           |
+| St: 13  | Ice:      Strong         | | St: 14  | Ice:      --             |
+| Ma: 25  | Electric: Strong         | | Ma: 22  | Electric: --             |
+| Vi: 12  | Force:    Weak           | | Vi: 15  | Force:    --             |
+| Ag: 17  | Curse:    Weak           | | Ag: 16  | Curse:    Repel          |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Mediarahan         |
+|                 --                 | |                 Recarm             |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Flow          | | Race Skill:     Goddess Grace      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Yaksa                     Level 51 | | Seiryuu                   Level 51 |
+|------------------------------------| |------------------------------------|
+| HP: 455 | Physical: --             | | HP: 386 | Physical: --             |
+| MP: 62  | Fire:     Null           | | MP: 237 | Fire:     --             |
+| St: 24  | Ice:      --             | | St: 20  | Ice:      --             |
+| Ma: 11  | Electric: Strong         | | Ma: 25  | Electric: Repel          |
+| Vi: 14  | Force:    Weak           | | Vi: 15  | Force:    Weak           |
+| Ag: 18  | Curse:    Strong         | | Ag: 10  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Diarahan           | | Command Skills: Maziodyne          |
+|                 Deathbound         | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Repel         | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Agitate            | | Race Skill:     Blood Treaty       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Vivian                    Level 52 | | Wu Kong*                  Level 52 |
+|------------------------------------| |------------------------------------|
+| HP: 301 | Physical: --             | | HP: 462 | Physical: Null           |
+| MP: 273 | Fire:     Strong         | | MP: 93  | Fire:     --             |
+| St: 11  | Ice:      --             | | St: 23  | Ice:      --             |
+| Ma: 26  | Electric: Drain          | | Ma: 10  | Electric: --             |
+| Vi: 15  | Force:    Strong         | | Vi: 14  | Force:    --             |
+| Ag: 16  | Curse:    --             | | Ag: 21  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Drain              | | Command Skills: Multi-Strike       |
+|                 Ziodyne            | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Elec Repel         | | Passive Skills: Null Phys          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fairy Dust         | | Race Skill:     Asura Karma        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Baihu                     Level 53 | | Osiris*                   Level 53 |
+|------------------------------------| |------------------------------------|
+| HP: 408 | Physical: Strong         | | HP: 357 | Physical: Strong         |
+| MP: 126 | Fire:     --             | | MP: 216 | Fire:     Strong         |
+| St: 23  | Ice:      --             | | St: 21  | Ice:      Strong         |
+| Ma: 10  | Electric: Null           | | Ma: 19  | Electric: Weak           |
+| Vi: 15  | Force:    Weak           | | Vi: 17  | Force:    Strong         |
+| Ag: 21  | Curse:    --             | | Ag: 12  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Piercing Hit       | | Command Skills: Megido             |
+|                 --                 | |                 Makarakarn         |
+|                 --                 | |                 --                 |
+| Passive Skills: Double Strike      | | Passive Skills: --                 |
+|                 Phys Amp           | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Warp Step          | | Race Skill:     Enlightenment      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Tzitzimitl*               Level 54 | | Anzu                      Level 54 |
+|------------------------------------| |------------------------------------|
+| HP: 386 | Physical: --             | | HP: 414 | Physical: --             |
+| MP: 237 | Fire:     --             | | MP: 147 | Fire:     Strong         |
+| St: 20  | Ice:      --             | | St: 20  | Ice:      Weak           |
+| Ma: 25  | Electric: Repel          | | Ma: 13  | Electric: --             |
+| Vi: 15  | Force:    Weak           | | Vi: 15  | Force:    --             |
+| Ag: 10  | Curse:    Strong         | | Ag: 22  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Maziodyne          | | Command Skills: Mazandyne          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Treaty       | | Race Skill:     Winged Flight      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Kangiten*                 Level 54 | | Isis*                     Level 55 |
+|------------------------------------| |------------------------------------|
+| HP: 408 | Physical: --             | | HP: 371 | Physical: Weak           |
+| MP: 197 | Fire:     --             | | MP: 270 | Fire:     --             |
+| St: 20  | Ice:      Weak           | | St: 16  | Ice:      Repel          |
+| Ma: 22  | Electric: --             | | Ma: 27  | Electric: --             |
+| Vi: 14  | Force:    Drain          | | Vi: 15  | Force:    --             |
+| Ag: 14  | Curse:    --             | | Ag: 13  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mediarahan         | | Command Skills: Mediarahan         |
+|                 --                 | |                 Tetrakarn          |
+|                 --                 | |                 --                 |
+| Passive Skills: Dual Shadow        | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     True Phantasm      | | Race Skill:     Goddess Grace      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Rakshasa                  Level 55 | | Arioch*                   Level 56 |
+|------------------------------------| |------------------------------------|
+| HP: 440 | Physical: Null           | | HP: 555 | Physical: Null           |
+| MP: 107 | Fire:     --             | | MP: 70  | Fire:     Weak           |
+| St: 23  | Ice:      Weak           | | St: 24  | Ice:      Strong         |
+| Ma: 12  | Electric: --             | | Ma: 14  | Electric: --             |
+| Vi: 16  | Force:    --             | | Vi: 18  | Force:    Strong         |
+| Ag: 20  | Curse:    --             | | Ag: 16  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Deathbound         | | Command Skills: Deathbound         |
+|                 --                 | |                 Tetrakarn          |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Phys          | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Bind          | | Race Skill:     Chaos Breath       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Decarabia                 Level 56 | | Kartikeya*                Level 56 |
+|------------------------------------| |------------------------------------|
+| HP: 387 | Physical: Strong         | | HP: 428 | Physical: --             |
+| MP: 210 | Fire:     Strong         | | MP: 142 | Fire:     Null           |
+| St: 18  | Ice:      --             | | St: 19  | Ice:      --             |
+| Ma: 22  | Electric: Weak           | | Ma: 15  | Electric: Repel          |
+| Vi: 12  | Force:    --             | | Vi: 12  | Force:    --             |
+| Ag: 20  | Curse:    --             | | Ag: 26  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Maragidyne         | | Command Skills: Multi-Strike       |
+|                 Shield All         | |                 Megido             |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Attack All         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fallen's Mark      | | Race Skill:     Asura Destiny      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Sleipnir                  Level 57 | | Lugh*                     Level 57 |
+|------------------------------------| |------------------------------------|
+| HP: 481 | Physical: --             | | HP: 432 | Physical: --             |
+| MP: 145 | Fire:     --             | | MP: 181 | Fire:     Strong         |
+| St: 21  | Ice:      Strong         | | St: 22  | Ice:      Strong         |
+| Ma: 12  | Electric: Weak           | | Ma: 22  | Electric: Null           |
+| Vi: 16  | Force:    Strong         | | Vi: 15  | Force:    --             |
+| Ag: 24  | Curse:    Strong         | | Ag: 14  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Maragi             |
+|                 --                 | |                 Deathbound         |
+|                 --                 | |                 --                 |
+| Passive Skills: Ice Drain          | | Passive Skills: Phys Amp           |
+|                 Force Drain        | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Flash        | | Race Skill:     Enlightenment      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Jikokuten*                Level 57 | | Yoshitsune*               Level 57 |
+|------------------------------------| |------------------------------------|
+| HP: 632 | Physical: --             | | HP: 414 | Physical: --             |
+| MP: 146 | Fire:     Weak           | | MP: 219 | Fire:     --             |
+| St: 24  | Ice:      --             | | St: 22  | Ice:      Null           |
+| Ma: 16  | Electric: --             | | Ma: 16  | Electric: --             |
+| Vi: 22  | Force:    Repel          | | Vi: 12  | Force:    --             |
+| Ag: 11  | Curse:    --             | | Ag: 23  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Ziodyne            | | Command Skills: Hassohappa         |
+|                 --                 | |                 Piercing Hit       |
+|                 --                 | |                 --                 |
+| Passive Skills: Elec Amp           | | Passive Skills: --                 |
+|                 Elec Drain         | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Matchless          | | Race Skill:     Hero's Mark        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Rangda                    Level 58 | | Culebre                   Level 58 |
+|------------------------------------| |------------------------------------|
+| HP: 380 | Physical: Repel          | | HP: 474 | Physical: --             |
+| MP: 219 | Fire:     --             | | MP: 162 | Fire:     Weak           |
+| St: 23  | Ice:      --             | | St: 18  | Ice:      Repel          |
+| Ma: 15  | Electric: Weak           | | Ma: 23  | Electric: Strong         |
+| Vi: 18  | Force:    Strong         | | Vi: 15  | Force:    --             |
+| Ag: 18  | Curse:    Strong         | | Ag: 18  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Bufudyne           |
+|                 --                 | |                 Mabufudyne         |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Repel         | | Passive Skills: Ice Repel          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Mother's Love      | | Race Skill:     Evil Flow          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Cerberus                  Level 58 | | Gucumatz                  Level 58 |
+|------------------------------------| |------------------------------------|
+| HP: 525 | Physical: Strong         | | HP: 584 | Physical: --             |
+| MP: 103 | Fire:     Repel          | | MP: 78  | Fire:     --             |
+| St: 25  | Ice:      Weak           | | St: 20  | Ice:      --             |
+| Ma: 11  | Electric: Strong         | | Ma: 13  | Electric: --             |
+| Vi: 17  | Force:    --             | | Vi: 22  | Force:    Repel          |
+| Ag: 21  | Curse:    --             | | Ag: 19  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Shield All         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Hero Soul          | | Passive Skills: Force Repel        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Free Leap          | | Race Skill:     Dragon Bind        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Titania*                  Level 58 | | Remiel*                   Level 59 |
+|------------------------------------| |------------------------------------|
+| HP: 389 | Physical: Weak           | | HP: 464 | Physical: Null           |
+| MP: 297 | Fire:     Null           | | MP: 184 | Fire:     Strong         |
+| St: 16  | Ice:      Null           | | St: 22  | Ice:      --             |
+| Ma: 27  | Electric: Null           | | Ma: 21  | Electric: Strong         |
+| Vi: 17  | Force:    Null           | | Vi: 16  | Force:    --             |
+| Ag: 14  | Curse:    --             | | Ag: 16  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Recarmloss         | | Command Skills: Samarecarm         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Phys Drain         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fairy Dust         | | Race Skill:     Angel Stigma       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Parvati*                  Level 59 | | Nata Taishi*              Level 59 |
+|------------------------------------| |------------------------------------|
+| HP: 410 | Physical: --             | | HP: 516 | Physical: --             |
+| MP: 292 | Fire:     Drain          | | MP: 164 | Fire:     Repel          |
+| St: 12  | Ice:      Weak           | | St: 22  | Ice:      --             |
+| Ma: 27  | Electric: --             | | Ma: 16  | Electric: --             |
+| Vi: 20  | Force:    --             | | Vi: 17  | Force:    --             |
+| Ag: 16  | Curse:    --             | | Ag: 20  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Mediarahan         | | Command Skills: Deathbound         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Fire Repel         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Goddess Grace      | | Race Skill:     Agitate            |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Airavata                  Level 60 | | Susano-o*                 Level 60 |
+|------------------------------------| |------------------------------------|
+| HP: 720 | Physical: --             | | HP: 553 | Physical: --             |
+| MP: 76  | Fire:     Weak           | | MP: 158 | Fire:     --             |
+| St: 20  | Ice:      Strong         | | St: 26  | Ice:      Strong         |
+| Ma: 16  | Electric: --             | | Ma: 19  | Electric: --             |
+| Vi: 30  | Force:    Null           | | Vi: 19  | Force:    Null           |
+| Ag: 10  | Curse:    --             | | Ag: 12  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Zandyne            | | Command Skills: Mazandyne          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Force         | | Passive Skills: Force Amp          |
+|                 Force Amp          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Warp Step          | | Race Skill:     Asura Destiny      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Loki*                     Level 61 | | Alilat*                   Level 61 |
+|------------------------------------| |------------------------------------|
+| HP: 498 | Physical: Strong         | | HP: 375 | Physical: Strong         |
+| MP: 184 | Fire:     Strong         | | MP: 266 | Fire:     --             |
+| St: 17  | Ice:      Strong         | | St: 24  | Ice:      --             |
+| Ma: 23  | Electric: Strong         | | Ma: 25  | Electric: --             |
+| Vi: 22  | Force:    Strong         | | Vi: 14  | Force:    --             |
+| Ag: 15  | Curse:    Strong         | | Ag: 14  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Megidolaon         | | Command Skills: Megidolaon         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-Most          | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Treaty       | | Race Skill:     Enlightenment      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ganesha                   Level 61 | | Purple Mirror*            Level 61 |
+|------------------------------------| |------------------------------------|
+| HP: 522 | Physical: --             | | HP: 415 | Physical: Weak           |
+| MP: 205 | Fire:     --             | | MP: 304 | Fire:     Repel          |
+| St: 26  | Ice:      Drain          | | St: 16  | Ice:      Repel          |
+| Ma: 21  | Electric: Weak           | | Ma: 26  | Electric: Repel          |
+| Vi: 26  | Force:    Strong         | | Vi: 22  | Force:    Weak           |
+| Ag: 4   | Curse:    Strong         | | Ag: 13  | Curse:    Repel          |
+|====================================| |====================================|
+| Command Skills: Judgement          | | Command Skills: Judgement          |
+|                 --                 | |                 Makarakarn         |
+|                 --                 | |                 --                 |
+| Passive Skills: Ice Drain          | | Passive Skills: --                 |
+|                 Force Drain        | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     True Phantasm      | | Race Skill:     Possession         |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Oberon*                   Level 62 | | Tao Tie*                  Level 62 |
+|------------------------------------| |------------------------------------|
+| HP: 448 | Physical: --             | | HP: 429 | Physical: --             |
+| MP: 275 | Fire:     Strong         | | MP: 267 | Fire:     --             |
+| St: 23  | Ice:      Strong         | | St: 20  | Ice:      Strong         |
+| Ma: 24  | Electric: Strong         | | Ma: 27  | Electric: Strong         |
+| Vi: 18  | Force:    Strong         | | Vi: 16  | Force:    Weak           |
+| Ag: 13  | Curse:    Weak           | | Ag: 15  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Samarecarm         | | Command Skills: Megidolaon         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Life Lift          | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fairy Dust         | | Race Skill:     Chaos Breath       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Feng Huang                Level 62 | | Trumpeter*                Level 63 |
+|------------------------------------| |------------------------------------|
+| HP: 446 | Physical: --             | | HP: 561 | Physical: --             |
+| MP: 221 | Fire:     Drain          | | MP: 162 | Fire:     Strong         |
+| St: 16  | Ice:      Weak           | | St: 16  | Ice:      Strong         |
+| Ma: 20  | Electric: --             | | Ma: 27  | Electric: Strong         |
+| Vi: 15  | Force:    --             | | Vi: 16  | Force:    --             |
+| Ag: 27  | Curse:    --             | | Ag: 20  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Inferno            | | Command Skills: Judgement          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Drain         | | Passive Skills: Attack All         |
+|                 Fire Amp           | |                 Anti-Most          |
+|                 --                 | |                 --                 |
+| Race Skill:     Winged Flight      | | Race Skill:     Uncanny Form       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Murmur                    Level 64 | | Ukano Mitama              Level 64 |
+|------------------------------------| |------------------------------------|
+| HP: 495 | Physical: --             | | HP: 405 | Physical: --             |
+| MP: 174 | Fire:     Weak           | | MP: 212 | Fire:     Strong         |
+| St: 24  | Ice:      Weak           | | St: 19  | Ice:      --             |
+| Ma: 23  | Electric: Repel          | | Ma: 21  | Electric: --             |
+| Vi: 16  | Force:    Repel          | | Vi: 17  | Force:    Repel          |
+| Ag: 17  | Curse:    Weak           | | Ag: 23  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Death Call         | | Command Skills: Mediarahan         |
+|                 Tetrakarn          | |                 Mazandyne          |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Force Repel        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fallen's Mark      | | Race Skill:     Warp Step          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Koumokuten*               Level 64 | | Grendel*                  Level 64 |
+|------------------------------------| |------------------------------------|
+| HP: 696 | Physical: --             | | HP: 661 | Physical: Strong         |
+| MP: 162 | Fire:     --             | | MP: 93  | Fire:     --             |
+| St: 25  | Ice:      --             | | St: 27  | Ice:      Weak           |
+| Ma: 17  | Electric: Weak           | | Ma: 14  | Electric: --             |
+| Vi: 23  | Force:    Repel          | | Vi: 23  | Force:    Repel          |
+| Ag: 15  | Curse:    Strong         | | Ag: 16  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Mazandyne          | | Command Skills: Tetrakarn          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Avenge             | | Passive Skills: Avenge             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Watchless          | | Race Skill:     Evil Bind          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Norn*                     Level 64 | | Baal*                     Level 65 |
+|------------------------------------| |------------------------------------|
+| HP: 400 | Physical: --             | | HP: 489 | Physical: --             |
+| MP: 329 | Fire:     Strong         | | MP: 244 | Fire:     Null           |
+| St: 19  | Ice:      --             | | St: 23  | Ice:      Null           |
+| Ma: 25  | Electric: --             | | Ma: 29  | Electric: Null           |
+| Vi: 16  | Force:    Repel          | | Vi: 14  | Force:    Weak           |
+| Ag: 20  | Curse:    Strong         | | Ag: 15  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Prayer             | | Command Skills:                    |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Mana Aid           | | Passive Skills: Elec Amp           |
+|                 --                 | |                 Fire Amp           |
+|                 --                 | |                 Ice Amp            |
+| Race Skill:     Goddess Grace      | | Race Skill:     Enlightenment      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Behemoth                  Level 65 | | Vritra                    Level 65 |
+|------------------------------------| |------------------------------------|
+| HP: 752 | Physical: --             | | HP: 522 | Physical: --             |
+| MP: 60  | Fire:     Weak           | | MP: 210 | Fire:     --             |
+| St: 33  | Ice:      Strong         | | St: 30  | Ice:      --             |
+| Ma: 10  | Electric: Strong         | | Ma: 16  | Electric: Drain          |
+| Vi: 29  | Force:    --             | | Vi: 22  | Force:    Weak           |
+| Ag: 9   | Curse:    --             | | Ag: 13  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Maziodyne          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Attack All         | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Devil Flash        | | Race Skill:     Evil Flow          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Fenrir                    Level 66 | | Orochi                    Level 66 |
+|------------------------------------| |------------------------------------|
+| HP: 546 | Physical: --             | | HP: 662 | Physical: --             |
+| MP: 178 | Fire:     Drain          | | MP: 118 | Fire:     Drain          |
+| St: 22  | Ice:      Strong         | | St: 30  | Ice:      Weak           |
+| Ma: 23  | Electric: Strong         | | Ma: 13  | Electric: --             |
+| Vi: 12  | Force:    --             | | Vi: 26  | Force:    --             |
+| Ag: 25  | Curse:    Strong         | | Ag: 13  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Piercing HIt       | | Command Skills: Hassohappa         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Double Strike      | | Passive Skills: Fire Drain         |
+|                 --                 | |                 Avenge             |
+|                 --                 | |                 --                 |
+| Race Skill:     Free Leap          | | Race Skill:     Dragon Bind        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Anat*                     Level 66 | | Oumitsunu*                Level 67 |
+|------------------------------------| |------------------------------------|
+| HP: 484 | Physical: --             | | HP: 748 | Physical: Strong         |
+| MP: 288 | Fire:     Null           | | MP: 73  | Fire:     --             |
+| St: 18  | Ice:      Weak           | | St: 32  | Ice:      Weak           |
+| Ma: 30  | Electric: --             | | Ma: 6   | Electric: --             |
+| Vi: 22  | Force:    --             | | Vi: 29  | Force:    Weak           |
+| Ag: 12  | Curse:    --             | | Ag: 16  | Curse:    --             |
+|====================================| |====================================|</span><span id="faqspan-4">
+| Command Skills: Recarmloss         | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Life Lift          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Mother's Love      | | Race Skill:     Agitate            |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Mot*                      Level 68 | | Tezcatlipoca*             Level 68 |
+|------------------------------------| |------------------------------------|
+| HP: 632 | Physical: --             | | HP: 522 | Physical: Strong         |
+| MP: 198 | Fire:     --             | | MP: 260 | Fire:     Weak           |
+| St: 20  | Ice:      --             | | St: 26  | Ice:      --             |
+| Ma: 31  | Electric: Weak           | | Ma: 25  | Electric: --             |
+| Vi: 25  | Force:    --             | | Vi: 19  | Force:    Weak           |
+| Ag: 8   | Curse:    Null           | | Ag: 14  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Gigajama           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Double Strike      | | Passive Skills: Attack All         |
+|                 Dual Shadow        | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Treaty       | | Race Skill:     Chaos Breath       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Jarilo*                   Level 68 | | Barong                    Level 68 |
+|------------------------------------| |------------------------------------|
+| HP: 529 | Physical: Drain          | | HP: 522 | Physical: --             |
+| MP: 222 | Fire:     --             | | MP: 234 | Fire:     Strong         |
+| St: 20  | Ice:      --             | | St: 24  | Ice:      --             |
+| Ma: 21  | Electric: Weak           | | Ma: 22  | Electric: Repel          |
+| Vi: 16  | Force:    --             | | Vi: 19  | Force:    Weak           |
+| Ag: 27  | Curse:    --             | | Ag: 19  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Holy Strike        | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Elec Repel         |
+|                 --                 | |                 Life Lift          |
+|                 --                 | |                 --                 |
+| Race Skill:     True Phantasm      | | Race Skill:     Warp Step          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Garuda                    Level 69 | | Pallas Athena*            Level 69 |
+|------------------------------------| |------------------------------------|
+| HP: 516 | Physical: --             | | HP: 660 | Physical: Repel          |
+| MP: 218 | Fire:     Strong         | | MP: 178 | Fire:     --             |
+| St: 26  | Ice:      --             | | St: 25  | Ice:      --             |
+| Ma: 15  | Electric: Strong         | | Ma: 20  | Electric: --             |
+| Vi: 17  | Force:    Weak           | | Vi: 24  | Force:    --             |
+| Ag: 27  | Curse:    Null           | | Ag: 16  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Megidolaon         | | Command Skills: Prayer             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Phys Repel         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Winged Flight      | | Race Skill:     Goddess Grace      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Lord Nan Dou*             Level 70 | | Guan Yu*                  Level 70 |
+|------------------------------------| |------------------------------------|
+| HP: 492 | Physical: --             | | HP: 644 | Physical: Null           |
+| MP: 323 | Fire:     Drain          | | MP: 249 | Fire:     --             |
+| St: 20  | Ice:      Weak           | | St: 25  | Ice:      --             |
+| Ma: 28  | Electric: --             | | Ma: 26  | Electric: --             |
+| Vi: 23  | Force:    Repel          | | Vi: 22  | Force:    --             |
+| Ag: 15  | Curse:    --             | | Ag: 13  | Curse:    Repel          |
+|====================================| |====================================|
+| Command Skills: Samarecarm         | | Command Skills: Holy Strike        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Enlightenment      | | Race Skill:     Hero's Proof       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Beiji-Weng*               Level 70 | | Bishamonten*              Level 71 |
+|------------------------------------| |------------------------------------|
+| HP: 467 | Physical: --             | | HP: 776 | Physical: Strong         |
+| MP: 287 | Fire:     --             | | MP: 172 | Fire:     Repel          |
+| St: 28  | Ice:      Drain          | | St: 29  | Ice:      Weak           |
+| Ma: 20  | Electric: Repel          | | Ma: 15  | Electric: --             |
+| Vi: 15  | Force:    Weak           | | Vi: 26  | Force:    --             |
+| Ag: 23  | Curse:    --             | | Ag: 17  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: Megidolaon         | | Command Skills: Hassohappa         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Fire Repel         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Asura Destiny      | | Race Skill:     Matchless          |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Agares                    Level 71 | | Ananta                    Level 72 |
+|------------------------------------| |------------------------------------|
+| HP: 539 | Physical: Strong         | | HP: 705 | Physical: --             |
+| MP: 230 | Fire:     Strong         | | MP: 180 | Fire:     Strong         |
+| St: 25  | Ice:      --             | | St: 31  | Ice:      Strong         |
+| Ma: 25  | Electric: --             | | Ma: 18  | Electric: Strong         |
+| Vi: 16  | Force:    Strong         | | Vi: 26  | Force:    --             |
+| Ag: 21  | Curse:    Weak           | | Ag: 13  | Curse:    Weak           |
+|====================================| |====================================|
+| Command Skills: Gigajama           | | Command Skills: Makarakarn         |
+|                 Tetrakarn          | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Phys Drain         | | Passive Skills: Attack All         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Fallen's Mark      | | Race Skill:     Dragon Bind        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Vasuki*                   Level 73 | | Ammut*                    Level 73 |
+|------------------------------------| |------------------------------------|
+| HP: 582 | Physical: --             | | HP: 712 | Physical: --             |
+| MP: 236 | Fire:     --             | | MP: 178 | Fire:     --             |
+| St: 30  | Ice:      Strong         | | St: 32  | Ice:      --             |
+| Ma: 18  | Electric: Null           | | Ma: 16  | Electric: Null           |
+| Vi: 24  | Force:    --             | | Vi: 26  | Force:    --             |
+| Ag: 17  | Curse:    Weak           | | Ag: 15  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Deathbound         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Flow          | | Race Skill:     Devil Flash        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Metatron*                 Level 74 | | Kali*                     Level 74 |
+|------------------------------------| |------------------------------------|
+| HP: 768 | Physical: Repel          | | HP: 582 | Physical: --             |
+| MP: 200 | Fire:     Null           | | MP: 282 | Fire:     Repel          |
+| St: 24  | Ice:      Null           | | St: 29  | Ice:      Weak           |
+| Ma: 26  | Electric: Weak           | | Ma: 20  | Electric: --             |
+| Vi: 22  | Force:    Weak           | | Vi: 23  | Force:    --             |
+| Ag: 18  | Curse:    Repel          | | Ag: 18  | Curse:    Strong         |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Prayer             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Victory Cry        | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Angel Stigma       | | Race Skill:     Mother's Love      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Ometeotl*                 Level 75 | | Astaroth*                 Level 75 |
+|------------------------------------| |------------------------------------|
+| HP: 532 | Physical: --             | | HP: 540 | Physical: --             |
+| MP: 309 | Fire:     Drain          | | MP: 260 | Fire:     Weak           |
+| St: 28  | Ice:      Repel          | | St: 32  | Ice:      Strong         |
+| Ma: 28  | Electric: --             | | Ma: 25  | Electric: Strong         |
+| Vi: 20  | Force:    --             | | Vi: 15  | Force:    Strong         |
+| Ag: 15  | Curse:    --             | | Ag: 19  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: Deathbound         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Double Strike      | | Passive Skills: Anti-All           |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Matchless          | | Race Skill:     Blood Treaty       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Heimdall*                 Level 75 | | Shiva*                    Level 76 |
+|------------------------------------| |------------------------------------|
+| HP: 558 | Physical: --             | | HP: 606 | Physical: Strong         |
+| MP: 252 | Fire:     --             | | MP: 294 | Fire:     Strong         |
+| St: 24  | Ice:      Repel          | | St: 25  | Ice:      Strong         |
+| Ma: 22  | Electric: --             | | Ma: 22  | Electric: Strong         |
+| Vi: 18  | Force:    Weak           | | Vi: 25  | Force:    Strong         |
+| Ag: 27  | Curse:    Null           | | Ag: 20  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Taunt              | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Null Curse         | | Passive Skills: Avenge             |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     True Phantasm      | | Race Skill:     Asura Destiny      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Anubis*                   Level 76 | | Da Peng*                  Level 77 |
+|------------------------------------| |------------------------------------|
+| HP: 564 | Physical: Strong         | | HP: 547 | Physical: Strong         |
+| MP: 251 | Fire:     --             | | MP: 269 | Fire:     Weak           |
+| St: 30  | Ice:      --             | | St: 28  | Ice:      --             |
+| Ma: 29  | Electric: --             | | Ma: 16  | Electric: --             |
+| Vi: 18  | Force:    --             | | Vi: 19  | Force:    Null           |
+| Ag: 15  | Curse:    Null           | | Ag: 30  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Samarecarm         | | Command Skills: Mediarahan         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Life Lift          |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Warp Step          | | Race Skill:     Winged Flight      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Amaterasu*                Level 77 | | Asura*                    Level 77 |
+|------------------------------------| |------------------------------------|
+| HP: 490 | Physical: --             | | HP: 800 | Physical: --             |
+| MP: 410 | Fire:     Null           | | MP: 200 | Fire:     Drain          |
+| St: 22  | Ice:      --             | | St: 27  | Ice:      --             |
+| Ma: 31  | Electric: --             | | Ma: 23  | Electric: Strong         |
+| Vi: 21  | Force:    Null           | | Vi: 23  | Force:    --             |
+| Ag: 19  | Curse:    --             | | Ag: 20  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: Samarecarm         | | Command Skills: Megidolaon         |
+|                 Prayer             | |                 Inferno            |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Goddess Grace      | | Race Skill:     Enlightenment      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Nyarlathotep*             Level 80 | | Hoyau Kamui*              Level 80 |
+|------------------------------------| |------------------------------------|
+| HP: 495 | Physical: --             | | HP: 848 | Physical: --             |
+| MP: 336 | Fire:     Strong         | | MP: 198 | Fire:     --             |
+| St: 30  | Ice:      Strong         | | St: 29  | Ice:      Repel          |
+| Ma: 22  | Electric: Strong         | | Ma: 19  | Electric: --             |
+| Vi: 19  | Force:    Strong         | | Vi: 26  | Force:    --             |
+| Ag: 25  | Curse:    Strong         | | Ag: 22  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Mana Aid           | | Passive Skills: Life Stream        |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Chaos Breath       | | Race Skill:     Dragon Bind        |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Black Frost*              Level 80 | | Nergal*                   Level 81 |
+|------------------------------------| |------------------------------------|
+| HP: 510 | Physical: --             | | HP: 616 | Physical: Repel          |
+| MP: 353 | Fire:     Repel          | | MP: 348 | Fire:     Strong         |
+| St: 27  | Ice:      Repel          | | St: 26  | Ice:      Strong         |
+| Ma: 27  | Electric: --             | | Ma: 28  | Electric: Strong         |
+| Vi: 22  | Force:    --             | | Vi: 20  | Force:    Strong         |
+| Ag: 20  | Curse:    --             | | Ag: 23  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: Mabufudyne         | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Fire Repel         | | Passive Skills: Anti-All           |
+|                 Ice Repel          | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Evil Bind          | | Race Skill:     Blood Treaty       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Masakado*                 Level 82 | | Lilith*                   Level 83 |
+|------------------------------------| |------------------------------------|
+| HP: 731 | Physical: Strong         | | HP: 620 | Physical: --             |
+| MP: 254 | Fire:     --             | | MP: 399 | Fire:     Strong         |
+| St: 26  | Ice:      --             | | St: 26  | Ice:      Strong         |
+| Ma: 24  | Electric: Strong         | | Ma: 31  | Electric: Strong         |
+| Vi: 24  | Force:    Strong         | | Vi: 24  | Force:    Strong         |
+| Ag: 24  | Curse:    Strong         | | Ag: 18  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Anti-All           | | Passive Skills: Anti-Almighty      |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Hero's Proof       | | Race Skill:     Mother's Love      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Belial*                   Level 86 | | Nebiros                   Level 86 |
+|------------------------------------| |------------------------------------|
+| HP: 575 | Physical: Strong         | | HP: 666 | Physical: --             |
+| MP: 385 | Fire:     Null           | | MP: 324 | Fire:     Repel          |
+| St: 30  | Ice:      --             | | St: 19  | Ice:      --             |
+| Ma: 24  | Electric: Strong         | | Ma: 30  | Electric: Weak           |
+| Vi: 29  | Force:    Strong         | | Vi: 25  | Force:    Strong         |
+| Ag: 19  | Curse:    Null           | | Ag: 28  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Blood Treaty       | | Race Skill:     Fallen's Mark      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Alice*                    Level 88 | | Beelzebub*                Level 91 |
+|------------------------------------| |------------------------------------|
+| HP: 593 | Physical: --             | | HP: 655 | Physical: Drain          |
+| MP: 467 | Fire:     Strong         | | MP: 421 | Fire:     Strong         |
+| St: 24  | Ice:      Strong         | | St: 33  | Ice:      Strong         |
+| Ma: 32  | Electric: Strong         | | Ma: 26  | Electric: Strong         |
+| Vi: 24  | Force:    Strong         | | Vi: 22  | Force:    Strong         |
+| Ag: 24  | Curse:    Null           | | Ag: 26  | Curse:    Null           |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: Ultimate Hit       | | Passive Skills: Phys Drain         |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Unearthly Form     | | Race Skill:     Blood Treaty       |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯| |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Zaou Gongen*              Level 93 | | Satan*                    Level 99 |
+|------------------------------------| |------------------------------------|
+| HP: 936 | Physical: --             | | HP: 882 | Physical: Repel          |
+| MP: 248 | Fire:     Repel          | | MP: 292 | Fire:     Null           |
+| St: 28  | Ice:      --             | | St: 32  | Ice:      Null           |
+| Ma: 31  | Electric: Weak           | | Ma: 28  | Electric: --             |
+| Vi: 24  | Force:    Drain          | | Vi: 27  | Force:    --             |
+| Ag: 26  | Curse:    --             | | Ag: 28  | Curse:    --             |
+|====================================| |====================================|
+| Command Skills: --                 | | Command Skills: --                 |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Passive Skills: --                 | | Passive Skills: Anti-Almighty      |
+|                 --                 | |                 --                 |
+|                 --                 | |                 --                 |
+| Race Skill:     Matchless          | | Race Skill:     Fallen's Mark      |
+|____________________________________| |____________________________________|
+
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| Lucifer*                  Level 99 |
+|------------------------------------|
+| HP: 999 | Physical: Strong         |
+| MP: 516 | Fire:     Strong         |
+| St: 29  | Ice:      Strong         |
+| Ma: 30  | Electric: Strong         |
+| Vi: 28  | Force:    Strong         |
+| Ag: 28  | Curse:    Null           |
+|====================================|
+| Command Skills: --                 |
+|                 --                 |
+|                 --                 |
+| Passive Skills: --                 |
+|                 --                 |
+|                 --                 |
+| Race Skill:     Blood Treaty       |
+|____________________________________|
+
+Fusion
+¯¯¯¯¯¯
+  Use the chart to cross-reference how to make any Demon. Some Demons require
+specific levels and other a specific combination, refer to the Cathedral of
+Shadows search method for those Demons.
+
+|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+|        | Omega   | Megami | Deity   | Vile   | Snake  | Dragon  | Divine |
+|========|=========|========|=========|========|========|=========|========|
+| Omega  | Flaemis | Vile   | Tyrant  | Dragon | Kishin | Touki   | Deity  |
+| Megami | Vile    | Aquans | Kishin  | Omega  | Fairy  | Jaki    | Avatar |
+| Deity  | Tyrant  | Kishin | Flaemis | Tyrant | Omega  | Vile    | Megami |
+| Vile   | Dragon  | Omega  | Tyrant  | Aeros  | Deity  | Tyrant  | Avian  |
+| Snake  | Kishin  | Fairy  | Omega   | Deity  | Aquans | Wilder  | Megami |
+| Dragon | Touki   | Jaki   | Vile    | Tyrant | Wilder | Flaemis | Fallen |
+| Divine | Deity   | Avatar | Megami  | Avian  | Megami | Fallen  | Aeros  |
+| Avian  | Kishin  | Divine | Femme   | Jaki   | Vile   | Femme   | Snake  |
+| Fallen | Vile    | Femme  | Kishin  | Avian  | Megami | Beast   | Tyrant |
+| Avatar | Wilder  | Snake  | Jaki    | Tyrant | Deity  | Ghost   | Megami |
+| Beast  | Avatar  | Genma  | Avian   | Dragon | Avatar | Jaki    | Avatar |
+| Wilder | Fallen  | Fairy  | Touki   | Fallen | Touki  | Genma   | Avatar |
+| Genma  | Megami  | Beast  | Wilder  | Kishin | Deity  | Fallen  | Dragon |
+| Fairy  | Ghost   | Wilder | Snake   | Touki  | Beast  | Fallen  | Avatar |
+| Tyrant | Deity   | Omega  | Vile    | Deity  | Dragon | Ghost   | Deity  |
+| Kishin | Megami  | Touki  | Fairy   | Jaki   | Divine | Genma   | Femme  |
+| Touki  | Femme   | Avian  | Kishin  | Genma  | Kishin | Wilder  | Beast  |
+| Jaki   | Kishin  | Femme  | Tyrant  | Genma  | Divine | Avian   | Kishin |
+| Femme  | Megami  | Divine | Dragon  | Tyrant | Fallen | Ghost   | Megami |
+| Ghost  | Touki   | Vile   | Fairy   | Deity  | Dragon | Wilder  | Avian  |
+| Fiend  | Vile    | Omega  | Tyrant  | Kishin | Megami | Snake   | Vile   |
+| Hero   | Megami  | Tyrant | Kishin  | Omega  | Deity  | Divine  | Megami |
+|________|_________|________|_________|________|________|_________|________|
+
+|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+|        | Avian  | Fallen | Avatar |  Beast  | Wilder | Genma  | Fairy  |
+|========|========|========|========|=========|========|========|========|
+| Omega  | Kishin | Vile   | Wilder | Avatar  | Fallen | Megami | Ghost  |
+| Megami | Divine | Femme  | Snake  | Genma   | Fairy  | Beast  | Wilder |
+| Deity  | Femme  | Kishin | Jaki   | Avian   | Touki  | Wilder | Snake  |
+| Vile   | Jaki   | Avian  | Tyrant | Dragon  | Fallen | Kishin | Touki  |
+| Snake  | Vile   | Megami | Deity  | Avatar  | Touki  | Deity  | Beast  |
+| Dragon | Femme  | Beast  | Ghost  | Jaki    | Genma  | Fallen | Fallen |
+| Divine | Snake  | Tyrant | Megami | Avatar  | Avatar | Dragon | Avatar |
+| Avian  | Aeros  | Megami | Divine | Genma   | Snake  | Divine | Snake  |
+| Fallen | Megami | Erthys | Touki  | Femme   | Dragon | Tyrant | Divine |
+| Avatar | Divine | Touki  | Aquans | Divine  | Jaki   | Snake  | Megami |
+| Beast  | Genma  | Femme  | Divine | Flaemis | Ghost  | Jaki   | Femme  |
+| Wilder | Snake  | Dragon | Jaki   | Ghost   | Erthys | Vile   | Avian  |
+| Genma  | Divine | Tyrant | Snake  | Jaki    | Vile   | Aeros  | Beast  |
+| Fairy  | Snake  | Divine | Megami | Femme   | Avian  | Beast  | Aeros  |
+| Tyrant | Avatar | Omega  | Fallen | Dragon  | Jaki   | Vile   | Wilder |
+| Kishin | Deity  | Jaki   | Deity  | Avian   | Ghost  | Snake  | Vile   |
+| Touki  | Beast  | Avian  | Kishin | Fairy   | Snake  | Avatar | Beast  |
+| Jaki   | Avatar | Beast  | Fairy  | Touki   | Dragon | Avian  | Ghost  |
+| Femme  | Divine | Dragon | Genma  | Fairy   | Avatar | Touki  | Fallen |
+| Ghost  | Beast  | Fairy  | Snake  | Wilder  | Touki  | Divine | Jaki   |
+| Fiend  | Megami | Genma  | Vile   | Snake   | Dragon | Deity  | Femme  |
+| Hero   | Divine | Tyrant | Deity  | Snake   | Avatar | Deity  | Genma  |
+|________|________|________|________|_________|________|________|________|
+
+|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯|
+|        | Tyrant | Kishin | Touki   | Jaki   | Femme  | Ghost  | Fiend  |
+|========|========|========|=========|========|========|========|========|
+| Omega  | Deity  | Megami | Femme   | Kishin | Megami | Touki  | Megami |
+| Megami | Omega  | Touki  | Avian   | Femme  | Divine | Vile   | Vile   |
+| Deity  | Vile   | Fairy  | Kishin  | Tyrant | Dragon | Fairy  | Tyrant |
+| Vile   | Deity  | Jaki   | Genma   | Genma  | Tyrant | Deity  | Kishin |
+| Snake  | Dragon | Divine | Kishin  | Divine | Fallen | Dragon | Megami |
+| Dragon | Ghost  | Genma  | Wilder  | Avian  | Ghost  | Wilder | Snake  |
+| Divine | Deity  | Femme  | Beast   | Kishin | Megami | Avian  | Vile   |
+| Avian  | Avatar | Deity  | Beast   | Avatar | Divine | Beast  | Megami |
+| Fallen | Omega  | Jaki   | Avian   | Beast  | Dragon | Fairy  | Genma  |
+| Avatar | Fallen | Deity  | Kishin  | Fairy  | Genma  | Snake  | Vile   |
+| Beast  | Dragon | Avian  | Fairy   | Touki  | Fairy  | Wilder | Snake  |
+| Wilder | Jaki   | Ghost  | Snake   | Dragon | Avatar | Touki  | Dragon |
+| Genma  | Vile   | Snake  | Avatar  | Avian  | Touki  | Divine | Deity  |
+| Fairy  | Wilder | Vile   | Beast   | Ghost  | Fallen | Jaki   | Femme  |
+| Tyrant | Erthys | Fallen | Snake   | Femme  | Wilder | Femme  | Omega  |
+| Kishin | Fallen | Aquans | Omega   | Genma  | Genma  | Vile   | Vile   |
+| Touki  | Snake  | Omega  | Flaemis | Wilder | Fairy  | Genma  | Kishin |
+| Jaki   | Femme  | Genma  | Wilder  | Erthys | Beast  | Fallen | Genma  |
+| Femme  | Wilder | Genma  | Fairy   | Beast  | Aquans | Fairy  | Megami |
+| Ghost  | Femme  | Vile   | Genma   | Fallen | Fairy  | Erthys | Fairy  |
+| Fiend  | Omega  | Vile   | Kishin  | Genma  | Megami | Fairy  | Aquans |
+| Hero   | Snake  | Omega  | Kishin  | Genma  | Megami | Femme  | Ghost  |
+|________|________|________|_________|________|________|________|________|
+
+*Hero + Hero = Flaemis
+
+                        ________________________________
+                       |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+=======================|                                |=======================
+                       |             Outro              |
+=======================|                                |=======================
+                       |________________________________|
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Thanks!
+¯¯¯¯¯¯¯
+- Shin Megami Tensei Wikia
+- Vinheim
+- Johnathan Sawyer
+- Happy Mask Man
+- Kamui Archetype
+- blasster
+- GameFAQs Board
+
+Legal
+¯¯¯¯¯
+  This document is Copyright ©2012 Greg Boccia (noz3r0) and is the intellectual
+property of the author. It may be not be reproduced under any circumstances
+except for personal, private use as long as it remains in its unaltered,
+unedited form. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other web
+site or as a part of any public display is strictly prohibited, and a violation
+of copyright.
+
+  All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+Guide releases are exclusive to: GameFAQs.com/Gamespot.com, Supercheats.com</span></pre>
+</div>
+
+		<p class="ffaq_page">FAQ Display Options: <a href="/ds/625210-shin-megami-tensei-devil-survivor-2/faqs/64005?print=1">Printable Version</a></p>
+
+<script type="text/javascript" src="/js/simplejax.js"></script>
+<script type="text/javascript">
+
+$('.toggle').bind('click touch', function()
+{
+	$('div.faq_menu_wrap:not(.faqsearch)').slideToggle(300);
+});
+
+$('.togglesearch').bind('click touch', function()
+{
+	show_faqsearch_dialog(1,0);
+});
+
+$('div.ffaq:not(.faq_menu_wrap)').bind('click touch', function()
+{
+	if($('div.faq_menu_wrap').css('display')=='block')
+		$('div.faq_menu_wrap').slideToggle(300);
+});
+
+$().ready(function()
+{
+	window.onscroll = function()
+	{
+		if(window.pageYOffset>=220)
+		{
+			$('div.ffaq_head').addClass('fixed').css('display','block');
+			$('div.top_link').addClass('fixed').css('display','block');
+			$('.not_fixed').css('visibility','visible');
+					}
+		else
+		{
+			$('div.ffaq_head').removeClass('fixed');
+			$('div.top_link').removeClass('fixed').css('display','none');
+			$('div.ffaq_head.rec_voted').css('display','none');
+			$('.not_fixed').css('visibility','hidden');
+					}
+	};
+
+	
+	
+	if($('ul.faq_results li').length<1)
+		$('a.toggle_results').hide();
+
+	$.each($('.ffaq img.imgnofloat'),function(){
+		var image = $(this);
+		if(image.attr('width')>400)
+		{
+			image.addClass('bigresize');
+		}
+	});
+
+	
+		});
+
+$('img.imgresize').bind('click touch', function()
+{
+	if($(this).css('max-width')=='none')
+		$(this).css({'width':'100%','max-width':'100%'});
+	else
+		$(this).css({'width':'auto','max-width':'none'});
+});
+
+$('input[name="faqsearch"]').keypress(function(e)
+{
+	if(e.which==13)
+		search_text();
+});
+
+function search_text()
+{
+	var term = $('input[name="faqsearch"]').val();
+
+	if($('.faqsearch').is(':hidden'))
+	{
+		$('.faqsearch').show();
+		return;
+	}
+
+	ajax("/ajax/faq_search", "id="+64005+"&term="+term+"&key=623f0c5e", got_search_results);
+}
+
+function got_search_results(data)
+{
+	$('input[name="faqsearch"]').blur();
+	$('ul.faq_results').empty().scrollTop();
+	var term = $('input[name="faqsearch"]').val();
+	var len = $('input[name="faqsearch"]').val().length;
+	var d = $.parseJSON(data);
+	window.currentpage = 0;
+	window.pagehead = false;
+	if(d[0]!="error")
+	{
+		$.each($.parseJSON(data),function(j,i){
+			var val = i.value;
+			val = val.split('-');
+			var page = val[0];
+			if(window.currentpage!=page)
+			{
+				window.currentpage = page;
+				window.pagehead = false;
+			}
+			var link = '';
+
+						{
+				link = "<a onclick=\"search_highlight(64005,"+val[0]+",2,"+val[1]+","+len+");\">";
+			}
+			
+			$('ul.faq_results').append('<li data-value="'+i.value+'">'+link+'...'+i.label+'...</a></li>');
+		});
+
+		if(d.length==50)
+		{
+			$('ul.faq_results').append('<li class="head">Too many results to display, please narrow your search.</li>');
+		}
+
+				if($('ul.faq_results li').length>7)
+			$('ul.faq_results').css({'height':'100%','overflow-y':'scroll'});
+		else
+			$('ul.faq_results').css({'height':'auto','overflow-y':'hidden'});
+			}
+	else
+	{
+		$('ul.faq_results').append('<li class="head">No results.</li>');
+	}
+
+	if($('a.toggle_results').is(':hidden'))
+		$('a.toggle_results').show();
+
+	return;
+}
+
+function search_highlight(file_id,page,format,pos,len)
+{
+	window.textpage = page+1;	ajax("/ajax/faq_search_highlight", "id="+file_id+"&page="+page+"&for="+format+"&pos="+pos+"&len="+len+"&key=623f0c5e", got_highlight);
+	return;
+}
+
+function got_highlight(data)
+{
+			$('a[name="search_jump"]').remove();
+		$("span.faq_highlight").contents().unwrap();
+		$('span#faqspan-'+window.textpage).html(data);
+				var offset = $('a[name="search_jump"]').offset().top - 100;
+	if(offset<100)
+		$(document).scrollTop(0);
+	else
+		$(document).scrollTop(offset);
+	return;
+}
+
+function toggle_results()
+{
+	$('ul.faq_results').toggle();
+	if($('ul.faq_results').is(':visible'))
+		$('a.toggle_results').text('hide results');
+	else
+		$('a.toggle_results').text('show results');
+}
+
+function set_bookmark()
+{
+	var pos = $(document).scrollTop();
+	var page = 0;
+	ajax("/ajax/faq_bookmark", "id="+64005+"&pid="+625210+"&pos="+pos+"&page="+page+"&key=623f0c5e", got_bookmark);
+}
+
+function got_bookmark(data)
+{
+	$('.faq_bookmark p').html(data);
+	$('.faq_bookmark').fadeIn().delay(5000).fadeOut();
+	return;
+}
+
+function remove_bookmark()
+{
+	ajax("/ajax/faq_bookmark_remove", "id="+64005+"&pid="+625210+"&key=623f0c5e", removed_bookmark);
+}
+
+function removed_bookmark(data)
+{
+	$('.faq_bookmark p').html(data);
+	$('.faq_bookmark').show().delay(3000).fadeOut();
+	return;
+}
+
+function bookmark_jump_dismiss()
+{
+	$('.faq_bookmark_jump').fadeOut();
+	window.jumpdismiss = 1;
+	return;
+}
+
+(function()
+{
+	var v = document.getElementsByClassName("yt_player");
+	for(var n=0;n<v.length;n++)
+	{
+		var p = document.createElement("div");
+		p.innerHTML = video_thumb(v[n].dataset.id, v[n].dataset.size);
+		p.onclick = video_iframe;
+		v[n].appendChild(p);
+	}
+})();
+ 
+function video_thumb(id,size)
+{
+	return '<img class="yt_thumb '+size+'" src="http://i.ytimg.com/vi/' + id + '/hqdefault.jpg"><div class="play_btn '+size+'"></div>';
+}
+ 
+function video_iframe()
+{
+	var iframe = document.createElement("iframe");
+	iframe.setAttribute("src", "http://www.youtube.com/embed/" + this.parentNode.dataset.id + "?autoplay=1");
+	iframe.setAttribute("frameborder", "0");
+	iframe.setAttribute("allowfullscreen", "allowfullscreen");
+	if(this.parentNode.dataset.size=="large")
+	{
+		iframe.setAttribute("width", "480");
+		iframe.setAttribute("height", "270");
+	}
+	else if(this.parentNode.dataset.size=="small")
+	{
+		iframe.setAttribute("width", "320");
+		iframe.setAttribute("height", "190");
+	}
+	this.parentNode.replaceChild(iframe, this);
+}
+
+
+function page_top()
+{
+	$(window).scrollTop(0);
+}
+</script></div></div></div></div><footer id="footer" class="footer"><div class="footer_site container row"><a href="/" class="footer_logo_gf">GameFAQs.com</a><a href="http://www.facebook.com/GFAQs"><i class="icon icon-facebook-sign"></i>facebook.com/GFAQs</a><a href="http://www.twitter.com/GameFAQs"><i class="icon icon-twitter"></i>twitter.com/GameFAQs</a><span class="footer_break"></span><a href="/help">Help / Contact Us</a><span class="footer_color_drop" id="color_change"><a href="/features/change_color">Change Colors <i class="icon icon-caret-up"></i></a><ul class="footer_color_subnav"><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=blue">Blue (Default)</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-blue">Blue on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=red">Red</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-red">Red on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=green">Green</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-green">Green on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=orange">Orange</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-orange">Orange on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=purple">Purple</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=dark-purple">Purple on Black</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=cloudy">Cloudy Blue</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=grayscale">Grayscale</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=sepia">Sepia</a></li><li class="footer_color_subnav_item"><a href="/user/change_color?site_color=cottoncandy">Cotton Candy</a></li></ul></span></div><div class="footer_network"><div class="container row"><p><a href="http://www.gamespot.com/" class="footer_logo_gs" >gamespot.com</a><a href="http://www.giantbomb.com/" class="footer_logo_gb">giantbomb.com</a><a href="http://www.metacritic.com/" class="footer_logo_mc">metacritic.com</a><a href="http://www.gamerankings.com/" class="footer_logo_gr">gamerankings.com</a></p><p>&copy; 2016 CBS Interactive Inc. All rights reserved.<span class="footer_break"></span><a href="http://sitemap.gamefaqs.com/">Sitemap</a><a href="http://www.cbsinteractive.com/advertise">Advertise</a><a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a><a href="http://legalterms.cbsinteractive.com/adchoice">Ad Choice</a><a href="http://www.cbsinteractive.com/terms_of_use.php">Terms of Use</a></p></div></div></footer></div><div id="site_dialog" class="site_dialog"></div>
+<script type="text/javascript" src="http://dw.cbsi.com/js/ds.js"></script>
+<script type="text/javascript" src="http://static.gamefaqs.com/js/omniture.min.js"></script>
+<script type="text/javascript">
+$('meta[id=view-guid-meta]').attr("content", $('meta[id=view-guid-meta]').attr("content").substr(0, 24) + Math.random().toString(16).substr(2,12));
+if(typeof DW!='undefined' && typeof omniture!='undefined')
+{
+	var jparms = JSON.parse($('meta[name=dwPageParams]').attr("content"));
+	var joparms = JSON.parse($('meta[name=omPageParams]').attr("content"));
+	jparms['viewguid'] = $('meta[id=view-guid-meta]').attr("content");
+	joparms['view_guid'] = $('meta[id=view-guid-meta]').attr("content");
+	joparms['anon_id'] = $.cookie('XCLGFbrowser');
+	if(!joparms['anon_id'])
+	{
+		$.getScript("//dw.cbsi.com/anonc.js").done(function( script, textStatus ) { if(typeof dw_anonc != 'undefined') {var anon_id = dw_anonc().id; $.cookie('XCLGFbrowser', anon_id, { expires: 3650, path: '/' }); joparms['anon_id'] = anon_id; } DW.pageParams = jparms; DW.clear(); omniture.trackPage(joparms); });
+	}
+	else
+	{
+		DW.pageParams = jparms; DW.clear();	omniture.trackPage(joparms);
+	}
+}
+</script>
+
+
+<script type="text/javascript">window._taboola=window._taboola || [];
+_taboola.push({flush: true});
+</script>
+<!--Page built in 0.026 seconds on box #210-->
+</body></html>
